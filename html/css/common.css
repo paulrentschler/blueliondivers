@@ -10,3 +10,74 @@ body {
     padding-top: 60px;
     padding-bottom: 40px;
 }
+
+a {
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+
+
+/** Global Nav formatting **/
+.navbar-inverse .navbar-inner {
+    background-color: #006;
+    background-image: linear-gradient(to bottom, #00C, #006);
+    background-repeat: repeat-x;
+    border-color: #003;
+}
+
+.navbar-inverse a.brand {
+    text-decoration: none;
+}
+
+.navbar-inverse .brand,
+.navbar-inverse .nav > li > a {
+    color: white;
+}
+
+.navbar-inverse .nav .active > a,
+.navbar-inverse .nav .active > a:hover,
+.navbar-inverse .nav .active > a:focus {
+    background-color: #003;
+    color: white;
+}
+
+.navbar-inverse a.brand:hover,
+.navbar-inverse .nav li > a:hover {
+    text-decoration: underline;
+}
+
+
+
+/** Event List formatting **/
+ul.eventList {
+    list-style-type: none;
+}
+
+ul.eventList li {
+    background-color: #F3F3F3;
+    border-bottom: 1px solid #999999;
+    margin-bottom: 1em;
+    padding: 0 1em;
+}
+
+ul.eventList li h3 {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+ul.eventList li .datetime {
+    color: #00C;
+    font-weight: bold;
+}
+
+ul.eventList li .location {
+}
+
+ul.eventList li p {
+    margin: 0.7em 0 0.3em 2em;
+}
+

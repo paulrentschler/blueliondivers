@@ -12,6 +12,6 @@ $page_title = 'Events';
 $page_active_url = 'events.php';
 
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/header.tpl';
-include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/index.tpl';
+include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/events.tpl';
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/footer.tpl';
 

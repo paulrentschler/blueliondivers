@@ -58,7 +58,6 @@ $globalNav = array(
                   <a href="<?php echo $url?>"><?php echo $label?></a>
                 </li>
               <?php } ?>
-              <li>Foobar</li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
