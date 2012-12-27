@@ -1,8 +1,34 @@
+<?php
+
+
+/**
+ * Standard header file for the site
+ *
+ * @author     Paul Rentschler <paul@rentschler.ws>
+ * @since      27 December 2012
+ */
+
+
+/**
+ * Define the global nav
+ *
+ * @author     Paul Rentschler <paul@rentschler.ws>
+ * @since      27 December 2012
+ */
+$globalNav = array(
+    'index.php' => 'Home',
+    'events.php' => 'Events',
+    'contact.php' => 'Contact',
+);
+
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Blue Lion SCUBA</title>
+    <title><?php echo $page_title?> :: Blue Lion SCUBA</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="State College-based SCUBA club not affiliated with Penn State">
     <meta name="author" content="Paul Rentschler">
@@ -20,12 +46,19 @@
     <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="index.html">Blue Lion SCUBA</a>
+          <a class="brand" href="index.php">Blue Lion SCUBA</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
-              <li class="active"><a href="index.html">Home</a></li>
-              <li><a href="events.html">Events</a></li>
-              <li><a href="contact.php">Contact</a></li>
+              <?php foreach ($globalNav as $url => $label) { ?>
+                <?php if ($url == $page_active_url) { ?>
+                  <li class="active">
+                <?php } else { ?>
+                  <li>
+                <?php } ?>
+                  <a href="<?php echo $url?>"><?php echo $label?></a>
+                </li>
+              <?php } ?>
+              <li>Foobar</li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
@@ -34,4 +67,3 @@
     
     
     <div class="container">
-
