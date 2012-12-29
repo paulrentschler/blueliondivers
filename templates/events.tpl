@@ -15,7 +15,7 @@
   
   <div class="span10">
     <h1>Upcoming Events</h1>
-    <p>
+    <p class="lead">
       As a virtual group of divers, we are all about going diving and socializing
       so we can talk about going diving.
     </p>

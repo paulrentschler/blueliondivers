@@ -52,6 +52,53 @@ a:hover {
 
 
 
+/** Form styling **/
+label {
+    display: inline;
+}
+
+.fieldRequired {
+    background: url("../img/required.gif") no-repeat scroll left center transparent;
+    color: white;
+    padding: 0 0 0 8px;
+}
+
+.formDescription {
+    color: #76797C;
+    font-size: 90%;
+    margin: 0 0 0.2em;
+}
+
+formDescription:hover {
+    color: Black;
+    cursor: default;
+}
+
+div.error {
+    background-color: #FFDDCC;
+    border: 1px solid #DD0000;
+    margin: 0 0 1em;
+    padding: 0.5em;
+    width: 95%;
+}
+
+.error .fieldRequired {
+    color: #DD0000;
+}
+
+.fieldErrorBox {
+    font-size: 110%;
+}
+
+.ksht-question {
+    font-size: 1.2em;
+    font-style: italic;
+    font-weight: bold;
+    margin: 0.3em 1em;
+}
+
+
+
 /** Event List formatting **/
 ul.eventList {
     list-style-type: none;
@@ -86,10 +133,6 @@ ul.eventList li p {
     border-radius: 6px 6px 6px 6px;
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
     padding: 0;
-/*
-    margin: 30px 0 0;
-    width: 228px;
-*/
 }
 
 .monthSidebar > li:first-child > a {
