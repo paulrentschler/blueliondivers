@@ -1,7 +1,10 @@
 <div class="hero-unit">
   <h1>Blue Lion SCUBA!</h1>
   <p>A virtual group of divers interested in going diving.</p>
-  <p><a class="btn btn-primary btn-large">Upcoming Events &raquo;</a></p>
+  <p>
+    <a class="btn btn-primary btn-large"
+       href="events.php">Upcoming Events &raquo;</a>
+  </p>
 </div>
 
 <!-- Example row of columns -->
@@ -31,7 +34,7 @@
   <div class="span4">
     <h2>Why</h2>
     <p>
-      Many of us are alumni members of the
+      Many of us are alumni of the
       <a href="http://www.nittanydivers.org">Penn State Nittany Divers SCUBA club</a>
       and/or State College community members who wanted to stay in touch and keep
       diving.
