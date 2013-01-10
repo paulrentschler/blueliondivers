@@ -109,7 +109,7 @@ ul.eventList {
     list-style-type: none;
 }
 
-ul.eventList li {
+ul.eventList > li {
     background-color: #F3F3F3;
     border-bottom: 1px solid #999999;
     margin-bottom: 1em;
@@ -131,6 +131,10 @@ ul.eventList li .location {
 
 ul.eventList li p {
     margin: 0.7em 0 0.3em 2em;
+}
+
+ul.eventList > li ul {
+    margin: 0 0 0.3em 4em;
 }
 
 .monthSidebar {

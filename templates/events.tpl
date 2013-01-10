@@ -477,7 +477,7 @@
         </li>
         <li>
           <h3>Gold Prospecting Trip to Maine</h3>
-          <div class="datetime">Thursday, August 15th - 18th/div>
+          <div class="datetime">Thursday, August 15th - 18th</div>
           <div class="location">
             <strong>Not a BLS trip</strong> &mdash; Contact
             <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>
@@ -543,6 +543,40 @@
             dive at Blue Hole. There's a good chance we will be sharing the quarry
             with our friends, the Laurel Divers, who are always fun to hang out with.
           </p>
+        </li>
+        <li>
+          <h3>Labor Day Houseboat Trip</h3>
+          <div class="datetime">Friday, August 30th &mdash; Monday, September 2nd</div>
+          <div class="location">
+            <a href="http://www.raystownlake.com">Raystown Lake</a>
+          </div>
+          <p>
+            Reviving yet another lost tradition, we'll have a houseboat for the 
+            holiday weekend. Come for a night, a day, or any combination.
+          </p>
+          <p>
+            We generally motor around the lake, slip into little coves to hang 
+            out and explore. We may have a few sets of gear for poking about but 
+            it won't be a "15 dives in 4-days live-aboard experience". We'll 
+            mostly be chillin' topside.
+          </p>
+          <p>Attractions include:</p>
+          <ul>
+            <li>Jumping off cliffs</li>
+            <li>Jumping off the houseboat roof and/or sliding board</li>
+            <li>Saturday night at The Party Cove</li>
+            <li>Sleeping under the stars</li>
+            <li>Diving Sheep Rock Shelter</li>
+            <li>Diving the Powerhouse/Dam (rather technical)</li>
+            <li>Snorkeling/diving the coves</li>
+            <li>Group sing-a-longs of "I'm on a BOAT!"</li>
+            <li>Fishing</li>
+            <li>Swimming</li>
+            <li>Bacon</li>
+            <li>Music (live or playlist)</li>
+            <li>Beverages</li>
+            <li>And with luck: jet skiing, water skiing, tubing</li>
+          </ul>
         </li>
       </ul>
     </section>
@@ -726,6 +760,10 @@
             the partying begins as Key West comes alive for New Years Eve like no other
             place on earth! A combination of Mardi Gras and Times Square the Floridians
             of Key West ring in the new year with a style all their own!
+          </p>
+          <p>
+            <a href="http://www.personal.psu.edu/jpl1/keys.htm">Additional information
+            on the Florida Keys Trip</a>
           </p>
         </li>
       </ul>
