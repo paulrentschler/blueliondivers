@@ -293,6 +293,12 @@
             to check out a dive shop.
           </p>
           <p>
+            Special guest appearances by
+            <a href="http://www.berniechowdhury.com/">Bernie Chowdhury</a>, 
+            author of The Last Dive, and Emmy award winning videographer
+            <a href="http://www.liquidproductionsllc.com/index.php/aboutus">Becky Kagan Schott</a>.
+          </p>
+          <p>
             Details regarding the State College departure and carpooling
             coming soon.
           </p>
