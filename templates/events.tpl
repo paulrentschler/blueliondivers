@@ -114,8 +114,11 @@
     <section id="february">
       <h2>February 2013</h2>
       <ul class="eventList">
-        <li>
+        <li class="eventCancelled">
           <h3>Sunday Night Social</h3>
+          <div class="alert alert-error">
+            <strong>Aw!</strong> This event has been cancelled due to the Super Bowl
+          </div>
           <div class="datetime">Sunday, February 3rd &mdash; 8pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
@@ -133,6 +136,10 @@
         </li>
         <li>
           <h3>Sunday Night Social</h3>
+          <div class="alert alert-info">
+            <strong>Ahoy!</strong> We usually sit in the booths in front of the 
+            wine closet. Look for the dive flag table tent.
+          </div>
           <div class="datetime">Sunday, February 10th &mdash; 8pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
@@ -150,6 +157,10 @@
         </li>
         <li>
           <h3>Sunday Night Social</h3>
+          <div class="alert alert-info">
+            <strong>Ahoy!</strong> We usually sit in the booths in front of the 
+            wine closet. Look for the dive flag table tent.
+          </div>
           <div class="datetime">Sunday, February 17th &mdash; 8pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
@@ -165,8 +176,12 @@
             that out of the way early in the season.
           </p>
         </li>
-        <li>
+        <li class="eventCancelled">
           <h3>Annual Too Cold Social</h3>
+          <div class="alert alert-error">
+            <strong>Aw!</strong> We have replaced this event with a trip to
+            Adventure Aquarium in Camden, NJ to see their special turtle exhibit.
+          </div>
           <div class="datetime">Saturday, February 23rd &mdash; 9am - 8pm</div>
           <div class="location">
             TBA &mdash; We are looking at someplace in the Philadelphia area.
@@ -187,7 +202,43 @@
           </p>
         </li>
         <li>
+          <h3>Adventure Aquarium Turtle Trip</h3>
+          <div class="alert alert-success">
+            <strong>Yay!</strong> This is taking the place of the Annual Too Cold Social!
+          </div>
+          <div class="datetime">Saturday, February 23rd &mdash; 9am - 8pm</div>
+          <div class="location">
+            <a href="http://www.adventureaquarium.com/">Adventure Aquarium</a>
+            &mdash; 1 Riverside Drive, Camden, NJ 08103
+          </div>
+          <p>
+            It's still too cold to go diving in February but the Adventure
+            Aquarium is have an excellent turtle exhibit entitled "Turtles:
+            Journey of Survival".
+          </p>
+          <p>
+            This is a family-friendly, non-diver approved event; come out and
+            enjoy the majestic turtles and hang with all your scuba friends
+            including some of our eastern PA contingent.
+          </p>
+          <p>
+            We will stop somewhere on the way home for a group dinner thus
+            completing the concept of the Annual Too Cold Social.
+          </p>
+          <p>
+            Details regarding the State College departure and carpooling
+            coming soon.
+          </p>
+          <p>
+            This event is being hosted be Matt V.
+          </p>
+        </li>
+        <li>
           <h3>Sunday Night Social</h3>
+          <div class="alert alert-info">
+            <strong>Ahoy!</strong> We usually sit in the booths in front of the 
+            wine closet. Look for the dive flag table tent.
+          </div>
           <div class="datetime">Sunday, February 24th &mdash; 8pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
@@ -197,6 +248,10 @@
             It's too cold for most of us to be diving, so come out and talk diving.
             Local musicians, Ted and Molly, provide great background music while
             we socialize and/or play pool.
+          </p>
+          <p>
+            <strong>Last one</strong> until November or December so don't miss your
+            chance to come out and socialize.
           </p>
           <p>
             Waivers for Blue Hole and Jay Street will be available so you can get
@@ -225,19 +280,21 @@
           </p>
         </li>
         <li>
-          <h3>Kick-off Plunge</h3>
-          <div class="datetime">Saturday, March 16th &mdash; 10am - 4pm</div>
+          <h3>Neptune's Realm Grand Opening</h3>
+          <div class="datetime">Saturday, March 16th &mdash; 12pm - 2pm</div>
           <div class="location">
-            Blue Hole Quarry
+            <a href="http://www.diveneptunesrealm.com/">Neptune's Realm</a>
+            &mdash; 946 Lake Road, Suite 304, Avondale, PA 19311
           </div>
           <p>
-            Who says it's too cold to go diving in March. Weather permitting
-            (aka no ice or snow) we will open up the 2013 diving season with
-            some Blue Hole diving. For those not familiar, the cold water yields
-            excellent visibility which might make it worth some shivering.
+            Fellow member, Matt V, has been working at this shop for the last
+            year. They are having their grand opening and what better excuse
+            to visit Matt and check out a dive shop! Like we needed a reason
+            to check out a dive shop.
           </p>
           <p>
-            Dry suit recommended, but we won't discriminate against wetsuit divers.
+            Details regarding the State College departure and carpooling
+            coming soon.
           </p>
         </li>
         <li>
@@ -265,6 +322,26 @@
     <section id="april">
       <h2>April 2013</h2>
       <ul class="eventList">
+        <li>
+          <h3>Kick-off Plunge</h3>
+          <div class="datetime">Saturday, April 6th &mdash; 10am - 4pm</div>
+          <div class="location">
+            Blue Hole Quarry
+          </div>
+          <p>
+            Who says it's too cold to go diving in March (yeah April). Weather permitting
+            (aka no ice or snow) we will open up the 2013 diving season with
+            some Blue Hole diving. For those not familiar, the cold water yields
+            excellent visibility which might make it worth some shivering.
+          </p>
+          <p>
+            This dive was originally planned for March 16th, but other events
+            conflicted and the dive was postponed.
+          </p>
+          <p>
+            Dry suit recommended, but we won't discriminate against wetsuit divers.
+          </p>
+        </li>
         <li>
           <h3>Annual Sunken Treasure Scuba Swap</h3>
           <div class="datetime">Saturday, April 13th &mdash; 9am - 2pm</div>

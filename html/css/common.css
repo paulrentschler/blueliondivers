@@ -116,6 +116,16 @@ ul.eventList > li {
     padding: 0 1em;
 }
 
+ul.eventList > li.eventCancelled .datetime {
+    text-decoration: line-through;
+}
+
+ul.eventList > li.eventCancelled .location,
+ul.eventList > li.eventCancelled p {
+    opacity: 0.5;
+    filter:alpha(opacity=50);
+}
+
 ul.eventList li h3 {
     font-size: 1.5em;
     margin: 0;
