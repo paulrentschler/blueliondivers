@@ -226,8 +226,28 @@
             completing the concept of the Annual Too Cold Social.
           </p>
           <p>
-            Details regarding the State College departure and carpooling
-            coming soon.
+            Pricing
+            <ul>
+              <li>Adults (12+) $24.95</li>
+              <li>Kids (2-12) $17.95</li>
+            </ul>
+          </p>
+          <p>
+            <strong>
+              <a href="https://docs.google.com/forms/d/1OSA_lMz2uhRfGPi9ZOhHUQr9xaZWX1XqMNzygNj8294/viewform"
+                >RSVP online</a> by Wed, Feb 20th at 6pm
+            </strong>
+          </p>
+          <p>
+            Times
+            <ul>
+              <li>Departure from State College: 7am</li>
+              <li>Arrival at the Aquarium: 10:30 - 11am</li>
+              <li>Estimated return to State College: 11pm</li>
+            </ul>
+          </p>
+          <p>
+            Car pooling will be announced after the RSVP closes on Wednesday evening.
           </p>
           <p>
             This event is being hosted be Matt V.
