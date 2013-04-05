@@ -348,8 +348,12 @@
     <section id="april">
       <h2>April 2013</h2>
       <ul class="eventList">
-        <li>
+        <li class="eventCancelled">
           <h3>Kick-off Plunge</h3>
+          <div class="alert alert-error">
+            <strong>Aw!</strong> This event has been cancelled because the groundhog lied
+            and the water temperatures are still only 39 degrees!
+          </div>
           <div class="datetime">Saturday, April 6th &mdash; 10am - 4pm</div>
           <div class="location">
             Blue Hole Quarry
@@ -394,6 +398,9 @@
             Penn State plays football we are going to join in. Come out, talk
             <strikethru>scuba</strikethru> football, and join in the fun!
           </p>
+          <p>
+            Please <a href="https://docs.google.com/forms/d/1WC51q2sDrrGoVP7ZLFig5ai78bgeyJ-K_mFWbiT9FlI/viewform">RSVP</a> for this event.
+          </p>
         </li>
         <li>
           <h3>Annual Blue-White Dive</h3>
@@ -408,6 +415,9 @@
             diving the day after the Blue-White football game. So if your coming
             to town for the game, don't forget your gear and make sure you have
             that Blue Hole waiver on file early.
+          </p>
+          <p>
+            Please <a href="https://docs.google.com/forms/d/1WC51q2sDrrGoVP7ZLFig5ai78bgeyJ-K_mFWbiT9FlI/viewform">RSVP</a> for this event.
           </p>
         </li>
         <li>
