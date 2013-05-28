@@ -1,7 +1,7 @@
       
       <hr>
       <footer>
-        <p>&copy; 2012-<?php echo date('Y')?> Blue Lion SCUBA. All Rights Reserved.</p>
+        <p>&copy; 2012-<?php echo date('Y')?> Blue Lion SCUBA Club. All Rights Reserved.</p>
       </footer>
     </div> <!-- /container -->
     
