@@ -18,6 +18,8 @@
 $globalNav = array(
     'index.php' => 'Home',
     'events.php' => 'Events',
+    'padiving.php' => 'Central PA Diving',
+    'about.php' => 'About',
     'contact.php' => 'Contact',
 );
 
@@ -30,7 +32,7 @@ $globalNav = array(
     <meta charset="utf-8">
     <title><?php echo $page_title?> :: Blue Lion SCUBA Club</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="State College-based SCUBA club not affiliated with Penn State">
+    <meta name="description" content="State College-based SCUBA club of divers interested in going diving">
     <meta name="author" content="Paul Rentschler">
     
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
