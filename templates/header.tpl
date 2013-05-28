@@ -28,7 +28,7 @@ $globalNav = array(
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title><?php echo $page_title?> :: Blue Lion SCUBA</title>
+    <title><?php echo $page_title?> :: Blue Lion SCUBA Club</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="State College-based SCUBA club not affiliated with Penn State">
     <meta name="author" content="Paul Rentschler">
@@ -51,7 +51,7 @@ $globalNav = array(
     <div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="index.php">Blue Lion SCUBA</a>
+          <a class="brand" href="index.php">Blue Lion SCUBA Club</a>
           <div class="nav-collapse collapse">
             <ul class="nav">
               <?php foreach ($globalNav as $url => $label) { ?>
