@@ -6,8 +6,8 @@
     
     <p>
         Thank you for your interest in the State College scuba diving
-        community. There are a decent number of us around town but we
-        rarely connect. Blue Lion SCUBA Club hopes to change that.
+        community. Blue Lion SCUBA Club is the place for State
+        College-area divers to connect above and below the waves.
         Information and resources for divers and non-divers alike can
         be found below.
         If you have questions, please
@@ -29,7 +29,7 @@
                     summer long.
                 </p>
                 <p>
-                    Not into quarry diving, we also host <a href="/events.php">lots
+                    Not into quarry diving? We also host <a href="/events.php">lots
                     of social events</a> particularly in the winter months. Come
                     out and <strong>meet fellow divers</strong> who might just
                     become you're next tropical vacation dive buddies.

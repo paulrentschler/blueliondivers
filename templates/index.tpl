@@ -1,10 +1,10 @@
 <div class="hero-unit">
-  <h1>Blue Lion SCUBA Club!</h1>
-  <p>A virtual group of divers interested in going diving.</p>
-  <p>
-    <a class="btn btn-primary btn-large"
-       href="events.php">Upcoming Events &raquo;</a>
-  </p>
+    <h1>Blue Lion SCUBA Club!</h1>
+    <p>A virtual group of divers interested in going diving.</p>
+    <p>
+        <a class="btn btn-primary btn-large"
+           href="events.php">Upcoming Events &raquo;</a>
+    </p>
 </div>
 
 <div class="row">

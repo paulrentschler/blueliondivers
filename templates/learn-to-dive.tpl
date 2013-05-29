@@ -48,7 +48,7 @@
         Recreation program</a>.
     </p>
     
-    <h2>Other information</h2>
+    <h2>Common Questions</h2>
     
     <h3>Do I need to own my own equipment?</h3>
     <p>
