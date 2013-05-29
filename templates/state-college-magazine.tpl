@@ -40,6 +40,10 @@
                     teaches advanced, rescue, and Nitrox courses throughout the
                     year. <a href="/contact.php">Contact him for details</a>.
                 </p>
+                <p>
+                    <a class="btn btn-primary btn-large"
+                       href="/join.php">Join the club &raquo;</a>
+                </p>
             </div>
         </div>
         
@@ -65,6 +69,10 @@
                     or <a href="http://www.rcscuba.net">R & C Scuba</a>) about
                     doing a <strong>Discover SCUBA</strong> where you get to try
                     scuba diving for about an hour in the pool.
+                </p>
+                <p>
+                    <a class="btn btn-primary btn-large"
+                       href="/learn-to-dive.php">Learn to dive &raquo;</a>
                 </p>
             </div>
         </div>
