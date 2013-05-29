@@ -1,7 +1,7 @@
 <div class="hero-unit">
     <h1>Blue Lion SCUBA Club!</h1>
     <!--<p>A virtual group of divers interested in going diving.</p>-->
-    <p>It's a big ocean, never dive alone again.</p>
+    <p>It's a big ocean, never dive alone.</p>
     <p>
         <a class="btn btn-primary btn-large"
            href="events.php">Upcoming Events &raquo;</a>
