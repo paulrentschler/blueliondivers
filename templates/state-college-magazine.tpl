@@ -16,13 +16,57 @@
     
     <div class="row">
         <div class="span6 infoBox">
-            <h2>Certified divers</h2>
-            
+            <div>
+                <h2>Certified divers</h2>
+                <p>
+                    Central Pennsylvania is an excellent training ground for
+                    honing your dive skills.
+                </p>
+                <p>
+                    <strong>Practice your skills</strong> by going diving with 
+                    us! We are diving
+                    <a href="/events.php">at least once a month</a> all
+                    summer long.
+                </p>
+                <p>
+                    Not into quarry diving, we also host <a href="/events.php">lots
+                    of social events</a> particularly in the winter months. Come
+                    out and <strong>meet fellow divers</strong> who might just
+                    become you're next tropical vacation dive buddies.
+                </p>
+                <p>
+                    You can also <strong>learn new skills</strong>. Our
+                    instructor, Paul Rentschler,
+                    teaches advanced, rescue, and Nitrox courses throughout the
+                    year. <a href="/contact.php">Contact him for details</a>.
+                </p>
+            </div>
         </div>
         
         <div class="span6 infoBox">
-            <h2>Non-divers</h2>
-            
+            <div>
+                <h2>Non-divers</h2>
+                <p>
+                    Any time is a great time to learn to scuba dive, but summer is
+                    by far the best. Learn <strong>what's involved</strong> in 
+                    <a href="/learn-to-dive.php">learning to dive</a>. It's not
+                    hard at all!
+                </p>
+                <p>
+                    If your looking to <strong>learn locally</strong>, 
+                    <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>
+                    is offering a course this summer at the <strong>Millheim 
+                    Community Pool</strong>.
+                    It's being taught by one of club's members, James Turner.
+                </p>
+                <p>
+                    Not sure if scuba is right for you? Contact one of our local
+                    dive shops (<a href="http://divestsc.com">Sunken Treasure Scuba Center</a>
+                    or <a href="http://www.rcscuba.net">R & C Scuba</a>) about
+                    doing a <strong>Discover SCUBA</strong> where you get to try
+                    scuba diving for about an hour in the pool.
+                </p>
+            </div>
         </div>
     </div>
 </div>

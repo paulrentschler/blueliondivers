@@ -65,6 +65,20 @@ a:hover {
 
 
 
+/** information box styling **/
+.infoBox {
+    /* background-color: #A8CDFF; */
+    background-color: #DDECFF;
+    border-radius: 15px; 
+    -moz-border-radius: 15px; 
+    -webkit-border-radius: 15px;
+}
+
+.infoBox > div {
+    padding: 0 1em;
+}
+
+
 /** Form styling **/
 label {
     display: inline;
