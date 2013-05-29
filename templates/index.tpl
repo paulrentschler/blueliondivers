@@ -7,7 +7,6 @@
   </p>
 </div>
 
-<!-- Example row of columns -->
 <div class="row">
   <div class="span4">
     <h2>Who</h2>
