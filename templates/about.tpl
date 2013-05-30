@@ -7,7 +7,9 @@
     <p>
         Blue Lion SCUBA Club exists to provide a way for scuba divers
         interested in scuba diving to associate with each other and most
-        importantly go diving together.
+        importantly go diving together. Our membership is focused on Penn
+        State/Nittany Diver alumni and State College area divers but anyone
+        is welcome to be a part of our group.
     </p>
     <p>
         Most of our diving is in the lakes and quarries of central and
@@ -25,6 +27,13 @@
         started out as little more than a Facebook group. It's main goal was
         to provide a way for a group of friends to plan and coordinate scuba
         diving outings to local quarries.
+    </p>
+    <p>
+        In Fall 2012 policy changes at Penn State University left the State
+        College community members and Penn State Alumni who use to be a part
+        of the Penn State Nittany Divers without a dive club to call home.
+        Blue Lion SCUBA Club stepped in to provide a new home to these
+        great divers.
     </p>
     <p>
         By the winter of 2012, the club expanded to include an email list and
