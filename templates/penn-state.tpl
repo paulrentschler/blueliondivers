@@ -1,7 +1,7 @@
 <div class="row">
     <h1><?php echo $page_title?></h1>
     <p class="lead">
-        A scuba club for Penn State alumni and more
+        A scuba club uniting the town, the gown, and beyond.
     </p>
     
     <div style="float: right">
