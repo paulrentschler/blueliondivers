@@ -4,6 +4,11 @@
         A scuba club for Penn State alumni and more
     </p>
     
+    <div style="float: right">
+        <img src="/img/town-gown-mask.png" alt="scuba mask with a picture of
+            Penn State's Old Main building in one lense and a picture of
+            Beaver Stadium in the other" />
+    </div>
     <p>
         In 1967 a small group of students started the first Penn State
         Scuba Club on the University Park campus which ultimately became
