@@ -387,7 +387,7 @@
         </li>
         <li>
           <h3>Penn State Blue-White Tailgate</h3>
-          <div class="datetime">Saturday, April 20th &mdash; 9pm - 2pm</div>
+          <div class="datetime">Saturday, April 20th &mdash; 9am - 2pm</div>
           <div class="location">
             Beaver Stadium, University Park, PA 16802
           </div>
@@ -404,7 +404,7 @@
         </li>
         <li>
           <h3>Annual Blue-White Dive</h3>
-          <div class="datetime">Sunday, April 21st &mdash; 9pm - 3pm</div>
+          <div class="datetime">Sunday, April 21st &mdash; 9am - 3pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
@@ -441,7 +441,7 @@
       <ul class="eventList">
         <li>
           <h3>Blue Hole Dive</h3>
-          <div class="datetime">Saturday, May 18th &mdash; 9pm - 3pm</div>
+          <div class="datetime">Saturday, May 18th &mdash; 9am - 3pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
@@ -453,7 +453,7 @@
         </li>
         <li>
           <h3>Memorial Day Dive</h3>
-          <div class="datetime">Monday, May 27th &mdash; 9pm - 3pm</div>
+          <div class="datetime">Monday, May 27th &mdash; 9am - 3pm</div>
           <div class="location">
             Taking Suggestions
           </div>
@@ -471,7 +471,7 @@
       <ul class="eventList">
         <li>
           <h3>Willow Springs Dive</h3>
-          <div class="datetime">Saturday, June 22nd &mdash; 7pm - 9pm</div>
+          <div class="datetime">Saturday, June 29th &mdash; 7am - 9pm</div>
           <div class="location">
             <a href="http://www.willowspringspark.com/">Willow Springs Park</a>
             &mdash; 199 Millardsville Road, Richland, PA 17087
@@ -533,7 +533,7 @@
         </li>
         <li>
           <h3>Great Island Cleanup</h3>
-          <div class="datetime">Saturday, July 20th &mdash; 7pm - 3pm</div>
+          <div class="datetime">Saturday, July 20th &mdash; 7am - 3pm</div>
           <div class="location">
             Below the Lock Haven Dam
           </div>
