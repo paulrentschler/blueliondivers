@@ -9,35 +9,62 @@
 </div>
 
 <div class="row">
-  <div class="span4">
-    <h2>Who</h2>
-    <p>
-      Certified scuba divers and non-divers are welcome.
-    </p>
-    <p>
-      Most of our events
-      revolve around going diving, but we do have social events which tend
-      to be of greater interest to our land-bound friends.
-    </p>
+  <div class="span4 infoBox">
+    <div>
+        <h2>Calling all divers!</h2>
+        <p>
+          Come socialize with other State College-area divers. Swap dive tales,
+          get gear advise, and find new dive/travel buddies.
+        <p>
+          Most of our events
+          revolve around going diving, but we also have a good number of 
+          social events.
+        </p>
+        <p>
+            <a class="btn btn-primary btn-large"
+               href="join.php">Join Us &raquo;</a>
+        </p>
+    </div>
   </div>
-  <div class="span4">
-    <h2>Where</h2>
-    <p>
-      Most of us are based in the State College, PA area but that is not a
-      requirement as we have members from all over.
-    </p>
-    <p>
-      Note: most dives are planned in the central and eastern Pennsylvania
-      areas.
-    </p>
+  <div class="span4 infoBox">
+    <div>
+        <h2>Penn State Alumni</h2>
+        <!--
+        <p>
+          <img src="/img/town-gown-mask.png" alt="scuba mask with a picture of Penn
+            State's Old Main building in one lense and a picture of Beaver
+            Stadium in the other" />
+        </p>
+        -->
+        <p>
+          Many of the founding members are Penn State alumni and/or former
+          members of <a href="http://www.nittanydivers.org">Nittany Divers</a>.
+        </p>
+        <p>
+          Reconnect with your blue and white friends under the waves.
+        </p>
+        <p>
+            <a class="btn btn-primary btn-large"
+               href="penn-state.php">We Are &raquo;</a>
+        </p>
+    </div>
   </div>
-  <div class="span4">
-    <h2>Why</h2>
-    <p>
-      Many of us are alumni of the
-      <a href="http://www.nittanydivers.org">Penn State Nittany Divers SCUBA club</a>
-      and/or State College community members who wanted to stay in touch and keep
-      diving.
-    </p>
+  <div class="span4 infoBox">
+    <div>
+        <h2>State College Magazine</h2>
+        <p>
+          Welcome readers of <a href="http://statecollegemagazine.com">State
+          College Magazine</a>. We are proud to have been
+          mentioned in the <em>"13 Summer Fun Finds"</em> article in the
+          June 2013 issue.
+        </p>
+        <p>
+          There is plenty to do under the water...
+        </p>
+        <p>
+            <a class="btn btn-primary btn-large"
+               href="state-college-magazine.php">Learn More &raquo;</a>
+        </p>
+    </div>
   </div>
 </div>
