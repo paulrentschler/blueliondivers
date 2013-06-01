@@ -14,6 +14,33 @@
         <a href="/contact">contact us</a>, we are happy to help.
     </p>
     
+    <?php if (strtotime(date('Y-m-d')) <= strtotime('2013-07-17')) { ?>
+        <div class="row">
+            <div class="offset2 span8 infoBox">
+                <div>
+                    <h2>Meet and Greet Happy Hours</h2>
+                    <p>
+                        <strong>Wed, June 19th</strong>
+                        and
+                        <strong>Wed, July 17th</strong> &mdash; <strong>5pm - 7pm</strong>
+                        at
+                        <a href="http://westsidestadiumbarandgrill.com/">Westside Stadium Bar and Grill</a>
+                    </p>
+                    <p>
+                        Come out and meet fellow divers in the State College area.
+                        Find out what we are doing, meet some potential new dive buddies,
+                        and swap tall tails over a pint of your favorite beverage.
+                    </p>
+                    <p>
+                        When you arrive, look for people <strong>on the deck wearing scuba shirts</strong>.
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">&nbsp;</div>
+    <?php } ?>
+    
     <div class="row">
         <div class="span6 infoBox">
             <div>

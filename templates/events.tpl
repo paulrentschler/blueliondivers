@@ -470,6 +470,27 @@
       <h2>June 2013</h2>
       <ul class="eventList">
         <li>
+          <h3>Meet and Greet Happy Hour</h3>
+          <div class="datetime">Wednesday, June 19th &mdash; 5pm - 7pm</div>
+          <div class="location">
+            <a href="http://westsidestadiumbarandgrill.com/">Westside Stadium Bar and Grill</a>
+            &mdash; 1301 W College Ave, State College, PA 16801
+          </div>
+          <p>
+            Come out and meet fellow divers in the State College area.
+            Find out what we are doing, meet some potential new dive buddies,
+            and swap tall tails over a pint of your favorite beverage.
+          </p>
+          <p>
+            The Westside stadium is located on the corner of West College Ave
+            and Corl Street. <em>Let's face it, this is the closest you're
+            going to get to "coral" in central PA.</em>
+          </p>
+          <p>
+            When you arrive, look for people on the deck wearing scuba shirts.
+          </p>
+        </li>
+        <li>
           <h3>Willow Springs Dive</h3>
           <div class="datetime">Saturday, June 29th &mdash; 7am - 9pm</div>
           <div class="location">
@@ -516,6 +537,27 @@
             get up and go to work in the morning. So come out and enjoy a night
             dive at Blue Hole. There's a good chance we will be sharing the quarry
             with our friends, the Laurel Divers, who are always fun to hang out with.
+          </p>
+        </li>
+        <li>
+          <h3>Meet and Greet Happy Hour</h3>
+          <div class="datetime">Wednesday, July 17th &mdash; 5pm - 7pm</div>
+          <div class="location">
+            <a href="http://westsidestadiumbarandgrill.com/">Westside Stadium Bar and Grill</a>
+            &mdash; 1301 W College Ave, State College, PA 16801
+          </div>
+          <p>
+            Come out and meet fellow divers in the State College area.
+            Find out what we are doing, meet some potential new dive buddies,
+            and swap tall tails over a pint of your favorite beverage.
+          </p>
+          <p>
+            The Westside stadium is located on the corner of West College Ave
+            and Corl Street. <em>Let's face it, this is the closest you're
+            going to get to "coral" in central PA.</em>
+          </p>
+          <p>
+            When you arrive, look for people on the deck wearing scuba shirts.
           </p>
         </li>
         <li>
