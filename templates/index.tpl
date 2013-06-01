@@ -49,7 +49,7 @@
         </p>
     </div>
   </div>
-  <?php if (2==3) { ?>
+  <?php if (2 != 3) { ?>
   <div class="span4 infoBox">
     <div>
         <h2>State College Magazine</h2>
