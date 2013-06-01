@@ -1,0 +1,54 @@
+#
+# Apache Virtual Host File for blueliondivers.com site
+#
+# DEVELOPMENT environment
+#
+
+<VirtualHost *:80>
+    ServerName alpha
+    ServerAlias alpha.local
+    
+    DocumentRoot "/home/httpd/playground/alpha/html"
+    
+    #ErrorDocument 404 /error-404
+    
+    
+###
+# Configure the general rewrite rules
+###
+    RewriteEngine On
+    #RewriteLog "/var/log/apache2/playground-alpha-redirect.log"
+    #RewriteLogLevel 3
+    
+    
+###
+# Directory access and configuration
+###
+    <Directory /home/httpd/playground/alpha/html/>
+        Options +FollowSymLinks
+#        Order deny,allow
+#        Deny from all
+        
+        # Hide the .php extensions on all urls
+        RewriteEngine On
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteCond %{REQUEST_FILENAME} !-d
+        RewriteCond %{REQUEST_FILENAME}.php -f
+        RewriteRule ^(.+)$ $1.php [L,QSA]
+    </Directory>
+#    Alias /subdirectory/ /home/httpd/playground/alpha/html/
+#    <Directory /home/httpd/playground/alpha/html>
+#        SetEnv DOC_ROOT "/home/httpd/playground/alpha/html"
+#        Options Indexes FollowSymLinks MultiViews
+#        AllowOverride All
+#    </Directory>
+#    <Location /subdirectory>
+#        AuthType Basic
+#        AuthName "Testing Site: Access by Invitation Only"
+#        AuthUserFile /home/httpd/auth/playground.passwd
+#        Require valid-user
+#
+#        Order deny,allow
+#        Allow from all
+#    </Location>
+</VirtualHost>

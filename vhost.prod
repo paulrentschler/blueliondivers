@@ -1,0 +1,68 @@
+#
+# Apache Virtual Host File for blueliondivers.com site
+#
+# PRODUCTION environment
+#
+
+<VirtualHost *:80>
+    ServerName blueliondivers.com
+    ServerAlias www.blueliondivers.com
+    ServerAdmin paul@surfsupwebdesign.com
+    
+    DocumentRoot "/home/httpd/blueliondivers.com/www/html"
+    
+    <IfModule mod_dir.c>
+        DirectoryIndex index.php index.html index.htm
+    </IfModule>
+    
+    #ErrorDocument 404 /error-404
+    
+    
+###
+# Configure the general rewrite rules
+###
+    RewriteEngine On
+    # RewriteLog "/var/log/apache2/blueliondivers.com/www-redirect.log"
+    # RewriteLogLevel 3
+    
+    # ensure www. is NOT used
+    RewriteCond %{HTTP_HOST}   ^www.blueliondivers.com$
+    RewriteRule ^(.*)$         http://blueliondivers.com$1     [R=permanent,NC,L]
+    
+###
+# Directory access and configuration
+###
+    <Directory /home/httpd/blueliondivers.com/www/html/>
+        Options FollowSymLinks
+        AllowOverride All
+        Order allow,deny
+        Allow from all
+        
+        # Hide the .php extensions on all urls
+        RewriteEngine On
+        RewriteCond %{REQUEST_FILENAME} !-f
+        RewriteCond %{REQUEST_FILENAME} !-d
+        RewriteCond %{REQUEST_FILENAME}.php -f
+        RewriteRule ^(.+)$ $1.php [L,QSA]
+    </Directory>
+    <Location />
+        AuthType Basic
+        AuthName "Testing Site: Access by Invitation Only"
+        AuthUserFile /home/httpd/auth/bluelion.passwd
+        Require valid-user
+        
+        Order deny,allow
+        Allow from all
+    </Location>
+    
+    
+###
+# Log configuration
+# Possible values include: debug, info, notice, warn, error, crit, alert, emerg.
+###
+    LogLevel warn
+    CustomLog /var/log/apache2/blueliondivers.com/www-access.log combined
+    ErrorLog /var/log/apache2/blueliondivers.com/www-error.log
+    
+    
+</VirtualHost>
