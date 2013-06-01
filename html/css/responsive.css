@@ -1,0 +1,46 @@
+/**
+ * Blue Lion SCUBA site responsive CSS
+ *
+ * @copyright     2012 Paul Rentschler
+ * @author        Paul Rentschler
+ * @since         31 May 2013
+ */
+
+@media (max-width: 767px) {
+    .infoBox > div {
+        padding-bottom: 1px;
+    }
+}
+
+@media (max-width: 540px) {
+    .hero-unit {
+        background-attachment: fixed;
+        background-position: -125px 60px;
+    }
+    
+    .hero-unit h1 {
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 435px) {
+    .hero-unit {
+        background-attachment: fixed;
+        background-position: -240px 20px;
+        font-size: 15px;
+        padding: 18px;
+    }
+    
+    .hero-unit h1 {
+        font-size: 38px;
+    }
+    
+    .btn-large {
+        font-size: 15.5px;
+        padding: 8px 12px;
+    }
+    
+    h2 {
+        font-size: 26.5px;
+    }
+}
