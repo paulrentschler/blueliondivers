@@ -9,7 +9,7 @@
 
 
 $page_title = 'Penn State Alumni';
-$page_active_url = 'penn-state.php';
+$page_active_url = 'penn-state';
 
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/header.tpl';
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/penn-state.tpl';

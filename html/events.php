@@ -9,7 +9,7 @@
 
 
 $page_title = 'Events';
-$page_active_url = 'events.php';
+$page_active_url = 'events';
 $body_attributes = 'data-target=".monthSidebar" data-spy="scroll"';
 
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/header.tpl';

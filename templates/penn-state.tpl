@@ -31,7 +31,7 @@
         Thus Blue Lion SCUBA Club was born and we exist to provide a club
         to allow the State College-area divers and any Penn State/Nittany
         Diver alumni a place to socialize and go diving. Read more about
-        <a href="/about.php">our history</a>.
+        <a href="/about">our history</a>.
     </p>
     <p>
         Our current focus is currently on local (central and
@@ -49,6 +49,6 @@
     <p>
         If your interested in getting out and doing more diving or just want
         to hang around to see what we are up to, please consider
-        <a href="/join.php">joining us!</a>
+        <a href="/join">joining us!</a>
     </p>
 </div>

@@ -31,7 +31,7 @@ session_start();
 
 
 $page_title = 'Contact';
-$page_active_url = 'contact.php';
+$page_active_url = 'contact';
 
 
 /**

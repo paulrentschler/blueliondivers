@@ -18,7 +18,7 @@
     </p>
     <p>
         If your interested in getting out and doing more diving, look at
-        <a href="/join.php">joining us!</a>
+        <a href="/join">joining us!</a>
     </p>
     
     <h2>History</h2>
@@ -65,6 +65,6 @@
     </p>
     <p>
         If you have a question about the club or scuba diving, please
-        <a href="/contact.php">contact him</a>.
+        <a href="/contact">contact him</a>.
     </p>
 </div>

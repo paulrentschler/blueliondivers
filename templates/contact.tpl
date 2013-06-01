@@ -6,7 +6,7 @@
 
 <?php echo $page->displayUserMessages()?>
 
-<form action="contact.php" method="post">
+<form action="contact" method="post">
   <input type="hidden" name="submitted" value="ok">
   
   <ul class="unstyled">

@@ -16,11 +16,11 @@
  * @since      27 December 2012
  */
 $globalNav = array(
-    'index.php' => 'Home',
-    'events.php' => 'Events',
-    'padiving.php' => 'Central PA Diving',
-    'about.php' => 'About',
-    'contact.php' => 'Contact',
+    '/' => 'Home',
+    'events' => 'Events',
+    'padiving' => 'Central PA Diving',
+    'about' => 'About',
+    'contact' => 'Contact',
 );
 
 ?>
@@ -54,7 +54,7 @@ $globalNav = array(
     <div class="navbar navbar-inverse navbar-static-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="index.php">Blue Lion SCUBA Club</a>
+          <a class="brand" href="/">Blue Lion SCUBA Club</a>
           <a class="btn btn-navbar" data-toggle="collapse"
              data-target=".nav-collapse">
             <span class="icon-bar"></span>

@@ -11,7 +11,7 @@
         Information and resources for divers and non-divers alike can
         be found below.
         If you have questions, please
-        <a href="/contact.php">contact us</a>, we are happy to help.
+        <a href="/contact">contact us</a>, we are happy to help.
     </p>
     
     <div class="row">
@@ -25,11 +25,11 @@
                 <p>
                     <strong>Practice your skills</strong> by going diving with 
                     us! We are diving
-                    <a href="/events.php">at least once a month</a> all
+                    <a href="/events">at least once a month</a> all
                     summer long.
                 </p>
                 <p>
-                    Not into quarry diving? We also host <a href="/events.php">lots
+                    Not into quarry diving? We also host <a href="/events">lots
                     of social events</a> particularly in the winter months. Come
                     out and <strong>meet fellow divers</strong> who might just
                     become you're next tropical vacation dive buddies.
@@ -38,11 +38,11 @@
                     You can also <strong>learn new skills</strong>. Our
                     instructor, Paul Rentschler,
                     teaches advanced, rescue, and Nitrox courses throughout the
-                    year. <a href="/contact.php">Contact him for details</a>.
+                    year. <a href="/contact">Contact him for details</a>.
                 </p>
                 <p>
                     <a class="btn btn-primary btn-large"
-                       href="/join.php">Join the club &raquo;</a>
+                       href="/join">Join the club &raquo;</a>
                 </p>
             </div>
         </div>
@@ -53,7 +53,7 @@
                 <p>
                     Any time is a great time to learn to scuba dive, but summer is
                     by far the best. Learn <strong>what's involved</strong> in 
-                    <a href="/learn-to-dive.php">learning to dive</a>. It's not
+                    <a href="/learn-to-dive">learning to dive</a>. It's not
                     hard at all!
                 </p>
                 <p>
@@ -72,7 +72,7 @@
                 </p>
                 <p>
                     <a class="btn btn-primary btn-large"
-                       href="/learn-to-dive.php">Learn to dive &raquo;</a>
+                       href="/learn-to-dive">Learn to dive &raquo;</a>
                 </p>
             </div>
         </div>

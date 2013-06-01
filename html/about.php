@@ -9,7 +9,7 @@
 
 
 $page_title = 'About';
-$page_active_url = 'about.php';
+$page_active_url = 'about';
 
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/header.tpl';
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/about.tpl';

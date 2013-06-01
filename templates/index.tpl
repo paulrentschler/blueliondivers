@@ -4,7 +4,7 @@
     <p>It's a big ocean, never dive alone.</p>
     <p>
         <a class="btn btn-primary btn-large"
-           href="events.php">Upcoming Events &raquo;</a>
+           href="events">Upcoming Events &raquo;</a>
     </p>
 </div>
 
@@ -22,7 +22,7 @@
         </p>
         <p>
             <a class="btn btn-primary btn-large"
-               href="join.php">Join Us &raquo;</a>
+               href="join">Join Us &raquo;</a>
         </p>
     </div>
   </div>
@@ -45,7 +45,7 @@
         </p>
         <p>
             <a class="btn btn-primary btn-large"
-               href="penn-state.php">We Are &raquo;</a>
+               href="penn-state">We Are &raquo;</a>
         </p>
     </div>
   </div>
@@ -63,7 +63,7 @@
         </p>
         <p>
             <a class="btn btn-primary btn-large"
-               href="state-college-magazine.php">Learn More &raquo;</a>
+               href="state-college-magazine">Learn More &raquo;</a>
         </p>
     </div>
   </div>

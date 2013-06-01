@@ -16,7 +16,7 @@
 
 
 $page_title = 'Welcome State College Magazine Readers';
-$page_active_url = 'state-college-magazine.php';
+$page_active_url = 'state-college-magazine';
 
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/header.tpl';
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/state-college-magazine.tpl';

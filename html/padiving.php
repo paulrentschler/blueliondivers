@@ -9,7 +9,7 @@
 
 
 $page_title = 'Diving in Central Pennsylvania';
-$page_active_url = 'padiving.php';
+$page_active_url = 'padiving';
 
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/header.tpl';
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/padiving.tpl';

@@ -9,7 +9,7 @@
 
 
 $page_title = 'Join the club';
-$page_active_url = 'join.php';
+$page_active_url = 'join';
 
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/header.tpl';
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/join.tpl';

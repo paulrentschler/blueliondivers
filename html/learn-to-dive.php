@@ -9,7 +9,7 @@
 
 
 $page_title = 'Learn to SCUBA Dive';
-$page_active_url = 'learn-to-dive.php';
+$page_active_url = 'learn-to-dive';
 
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/header.tpl';
 include dirname($_SERVER['DOCUMENT_ROOT']).'/templates/learn-to-dive.tpl';

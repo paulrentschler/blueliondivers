@@ -97,7 +97,7 @@
     </p>
     <p>
         Blue Lion SCUBA Club does refreshers upon request, 
-        <a href="/contact.php">contact us</a> to arrange one.
+        <a href="/contact">contact us</a> to arrange one.
     </p>
     
     <h3>What are the names of these certifying agencies?</h3>
