@@ -45,15 +45,15 @@
         RewriteCond %{REQUEST_FILENAME}.php -f
         RewriteRule ^(.+)$ $1.php [L,QSA]
     </Directory>
-    <Location />
-        AuthType Basic
-        AuthName "Testing Site: Access by Invitation Only"
-        AuthUserFile /home/httpd/auth/bluelion.passwd
-        Require valid-user
+#    <Location />
+#        AuthType Basic
+#        AuthName "Testing Site: Access by Invitation Only"
+#        AuthUserFile /home/httpd/auth/bluelion.passwd
+#        Require valid-user
         
-        Order deny,allow
-        Allow from all
-    </Location>
+#        Order deny,allow
+#        Allow from all
+#    </Location>
     
     
 ###
