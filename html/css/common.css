@@ -7,8 +7,6 @@
  */
 
 body {
-/*    background-color: #A8CDFF; */
-    padding-top: 60px;
     padding-bottom: 40px;
 }
 
@@ -30,6 +28,10 @@ a:hover {
 
 
 /** Global Nav formatting **/
+.navbar-static-top {
+    margin-bottom: 20px;
+}
+
 .navbar-inverse .navbar-inner {
     background-color: #00C;
     background-image: -moz-linear-gradient(top, #00C, #006);
