@@ -526,8 +526,11 @@
             those participating in an Advanced Scuba Diver course.
           </p>
         </li>
-        <li>
+        <li class="eventCancelled">
           <h3>EFND: Every Friday Night Dive</h3>
+          <div class="alert alert-error">
+            <strong>Aw!</strong> This event has been cancelled.
+          </div>
           <div class="datetime">Friday, July 12th &mdash; 6pm - 11pm</div>
           <div class="location">
             Blue Hole Quarry
@@ -560,8 +563,11 @@
             When you arrive, look for people on the deck wearing scuba shirts.
           </p>
         </li>
-        <li>
+        <li class="eventCancelled">
           <h3>EFND: Every Friday Night Dive</h3>
+          <div class="alert alert-error">
+            <strong>Aw!</strong> This event has been cancelled.
+          </div>
           <div class="datetime">Friday, July 19th &mdash; 6pm - 11pm</div>
           <div class="location">
             Blue Hole Quarry
@@ -660,8 +666,12 @@
             There are attractions and depths for all skill levels.
           </p>
         </li>
-        <li>
+        <li class="eventCancelled">
           <h3>EFND: Every Friday Night Dive</h3>
+          <div class="alert alert-error">
+            <strong>Aw!</strong> This event has been cancelled because it
+            conflicts with the Dutch Springs trip.
+          </div>
           <div class="datetime">Friday, August 16th &mdash; 6pm - 11pm</div>
           <div class="location">
             Blue Hole Quarry
@@ -686,8 +696,12 @@
             with our friends, the Laurel Divers, who are always fun to hang out with.
           </p>
         </li>
-        <li>
+        <li class="eventCancelled">
           <h3>EFND: Every Friday Night Dive</h3>
+          <div class="alert alert-error">
+            <strong>Aw!</strong> This event has been cancelled because it
+            conflicts with the Labor Day Houseboat Trip.
+          </div>
           <div class="datetime">Friday, August 30th &mdash; 6pm - 11pm</div>
           <div class="location">
             Blue Hole Quarry
@@ -768,7 +782,7 @@
         </li>
         <li>
           <h3>Guppy Gulch Camping Weekend</h3>
-          <div class="datetime">Saturday, September 21st at 7am &mdash Sunday, September 22nd at 8pm</div>
+          <div class="datetime">Saturday, September 21st at 7am &mdash; Sunday, September 22nd at 8pm</div>
           <div class="location">
             <a href="http://guppygulch.com/">Guppy Gulch</a>
             &mdash; Guppy Valley Lane, Delta, PA 17314
