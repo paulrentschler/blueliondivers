@@ -17,7 +17,7 @@
           get gear advise, and find new dive/travel buddies.
         <p>
           Most of our events
-          revolve around going diving, but we also have a good number of 
+          revolve around going diving, but we also have a good number of
           social events.
         </p>
         <p>
@@ -49,24 +49,19 @@
         </p>
     </div>
   </div>
-  <?php if (2 != 3) { ?>
   <div class="span4 infoBox">
     <div>
-        <h2>State College Magazine</h2>
-        <p>
-          Welcome readers of <a href="http://statecollegemagazine.com">State
-          College Magazine</a>. We are proud to have been
-          mentioned in the <em>"13 Summer Fun Finds"</em> article in the
-          June 2013 issue.
-        </p>
-        <p>
-          There is plenty to do under the water...
-        </p>
+        <h2>Happy New Year!</h2>
+        <div style="margin: 1.4em 0;">
+          <p><strong style="font-size: 2em;">2</strong> new dive sites</p>
+          <p><strong style="font-size: 2em;">0</strong> accident goal</p>
+          <p><strong style="font-size: 2em;">1</strong> major trip</p>
+          <p><strong style="font-size: 2em;">4</strong> traditions continued</p>
+        </div>
         <p>
             <a class="btn btn-primary btn-large"
-               href="state-college-magazine">Learn More &raquo;</a>
+               href="events">Learn More &raquo;</a>
         </p>
     </div>
   </div>
-  <?php } ?>
 </div>
