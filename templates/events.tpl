@@ -164,7 +164,7 @@
           <div class="datetime">April 4th - 6th</div>
           <div class="location">
             <a href="http://www.2dive.com/btm.htm">Bonne Terre Mine</a>
-            &mdash; Hwy 47 &amp; Allen St Bonne Terre, MO 63628
+            &mdash; Hwy 47 &amp; Allen St, Bonne Terre, MO 63628
           </div>
           <p>
             Dive under a town!
@@ -195,7 +195,7 @@
           <p>
             Our "local" scuba shop hosts an annual scuba swap to give local divers
             the opportunity to sell their used equipment or to purchase gently-used
-            equipment to round out their collection of gear.
+            equipment to round out their collection.
           </p>
         </li>
         <li>
@@ -209,7 +209,7 @@
             scrimmage to showcase the 2014 football team. Since we are based
             in State College and tailgating is what the locals do when
             Penn State plays football we are going to join in. Come out, talk
-            <strikethru>scuba</strikethru> football, and join in the fun!
+            <strike>scuba</strike> football, and join in the fun!
           </p>
         </li>
         <li>
@@ -408,11 +408,13 @@
             Rated as one of the Top 50 dive sites in America, Lake Rawlings
             offers a maximum depth of 65 feet, warm water, and 30-60 feet of
             visibility. Underwater attractions include:
-            <ul>
-              <li>Blackhawk helicopter</li>
-              <li>Airplane</li>
-              <li>School bus (of course)</li>
-            </ul>
+          </p>
+          <ul>
+            <li>Blackhawk helicopter</li>
+            <li>Airplane</li>
+            <li>School bus (of course)</li>
+          </ul>
+          <p>
             Air/Nitrox fills and equipment rentals are available on site.
           </p>
           <p>
@@ -590,17 +592,17 @@
             A long standing <a href="http://www.nittanydivers.org">Nittany
             Divers</a> tradition was the Lobster Tailgate held on Penn State's
             Homecoming weekend. In recent years that tradition as faultered,
-            but we are hear to reinstate it better than ever!
+            but we are here to reinstate it better than ever!
           </p>
           <p>
             Come out and enjoy your own "bug" (lobster) cooked right before
             your very eyes. Marinade your lobster in freshly melted butter and
-            enjoy it along with some tasty side dishes and some cold beverages.
+            enjoy it along with some tasty side dishes and cold beverages.
           </p>
           <p>
             Penn State alumni are specifically invited to attend this event
             as that's what the tradition has been about; creating an event
-            to bring generations of Penn State Scuba Divers together!
+            to bring generations of Penn State scuba divers together!
           </p>
           <p>
             Additional details and pricing will be posted later.
@@ -624,7 +626,7 @@
             &mdash; 664 Geiler Hollow Road, Jersey Shore, PA 17740
           </div>
           <p>
-            Our "local" scuba shop hosts an annual pig roast close out the diving
+            Our "local" scuba shop hosts an annual pig roast to close out the diving
             season. Great food, fun, and scuba talk!
           </p>
         </li>
@@ -644,6 +646,10 @@
             the whole family and/or your land-bound friends. You can even test your
             <a href="http://www.punkinchunkin.com/">punkin chunkin</a> skills
             with their pumpkin slingshots!
+          </p>
+          <p>
+            Last year was so much fun (even in the rain) that we are doing it
+            again this year.
           </p>
         </li>
       </ul>
@@ -764,13 +770,13 @@
             Sugarloaf Key, Florida
           </div>
           <p>
-            Spend the week between Christmas and New Years in Sunny Florida while diving
+            Spend the week between Christmas and New Years in sunny Florida while diving
             on some amazing reefs and shipwrecks. A traditional trip from the early days
             of <a href="http://www.nittanydivers.org">Nittany Divers</a>, this trip has
             continued for the last 10+ years under the leadership of Jon Leslie.
           </p>
           <p>
-            Leave the day after Christmas for a 24 hour drive (or a much shorter plane
+            Leave the day after Christmas for a 24-hour drive (or a much shorter plane
             flight) to the KOA Campground on Sugarloaf Key (just 3 islands back from Key
             West). December 28th, 29th, and 30th are spent enjoying the underwater wonders
             of the Florida Keys. With shallow reefs and large shipwrecks there are dives
