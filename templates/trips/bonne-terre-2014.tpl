@@ -20,6 +20,23 @@
             <p>Bonne Terre, MO (1 hour south of St. Louis)</p>
         </li>
         <li>
+            <h3>Transportation</h3>
+            <p>
+                There will be a 15-person van rented to transport all of us
+                to Bonne Terre and back. Anyone over 25 may be asked to help
+                with the driving.
+            </p>
+        </li>
+        <li>
+            <h3>How many</h3>
+            <p>There is space for 9 divers on the trip.</p>
+            <p>
+                The trip will be filled on a first pay basis. A $350.00
+                <strong>non-refundable</strong> deposit is required to
+                hold your spot.
+            </p>
+        </li>
+        <li>
             <h3>How Much</h3>
             <p>
                 <strong>$465.00</strong>
