@@ -211,6 +211,35 @@ ul.eventList > li ul {
 }
 
 
+
+/**
+ * More accessible definition list styling
+ */
+ul.definitionList {
+    list-style-type: none;
+}
+
+ul.definitionList > li {
+    margin-bottom: 2em;
+}
+
+ul.definitionList > li h2,
+ul.definitionList > li h3,
+ul.definitionList > li h4 {
+    font-size: 20px;
+    line-height: 20px;
+    margin: 10px 0;
+}
+
+ul.definitionList > li p {
+    margin-left: 3em;
+}
+
+ul.definitionList > li ul {
+    margin-left: 5em;
+}
+
+
 /*** Bonne Terre Mine trip ***/
 
 .bonne-terre .hero-unit {
