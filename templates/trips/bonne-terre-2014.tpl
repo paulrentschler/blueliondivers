@@ -26,6 +26,19 @@
                 to Bonne Terre and back. Anyone over 25 may be asked to help
                 with the driving.
             </p>
+            <p>The van will leave State College around 9:15am on Friday.</p>
+            <p>Return to State College around 11pm on Sunday.</p>
+        </li>
+        <li>
+            <h3>Food</h3>
+            <p>
+                You are responsible for all food expenses. We will stop along
+                the way (both Friday and Sunday) to eat when people are
+                hungry.
+            </p>
+            <p>
+                There should be adequate time to eat between dives on Saturday.
+            </p>
         </li>
         <li>
             <h3>How many</h3>
@@ -35,6 +48,12 @@
                 <strong>non-refundable</strong> deposit is required to
                 hold your spot.
             </p>
+            <p>
+                All trip fees are <strong>non-refundable</strong> and
+                <strong>only for this date</strong>, you are
+                encouraged to consider
+                <a href="https://www.diversalertnetwork.org/trip/">trip insurance</a>.
+            </p>
         </li>
         <li>
             <h3>How Much</h3>
@@ -43,14 +62,19 @@
                 (includes diving, guide tips, 2 nights hotel, transportation,
                 and all applicable taxes)
             </p>
-            <p><em>Trip fee is non-refundable and only for this date!</em></p>
+            <p>
+                All trip fees are <strong>non-refundable</strong> and
+                <strong>only for this date</strong>, you are
+                encouraged to consider
+                <a href="https://www.diversalertnetwork.org/trip/">trip insurance</a>.
+            </p>
         </li>
     </ul>
 
     <h2>Trip details</h2>
     <h3>Certification level</h3>
     <p>
-        All certification levels are allowed.
+        Open water certification from a nationally recognized agency is required.
     </p>
     <p>
         Must bring certification card and log book!
@@ -105,6 +129,10 @@
         for couples.
     </p>
     <p>
+        Sheets, pillows, and blankets are provided. You must provide towels
+        and other toiletries.
+    </p>
+    <p>
         The depot is located about a block from the mine.
     </p>
 
@@ -117,8 +145,11 @@
         Aluminum 80s <strong>are provided</strong> for all dives. You
         <strong>may not</strong> use your own tanks.
     </p>
+    <p>
+        Dive knives and lights are <strong>not permitted</strong>.
+    </p>
 
-    <h3>Rental packages</h3>
+    <h3>Rental packages (prices per day)</h3>
     <ul class="definitionList">
         <li>
             <h4>Weights and belt package</h4>
@@ -159,6 +190,27 @@
         </li>
     </ul>
 
+    <h2>Refunds and cancellations</h2>
+    <p>
+        The dives must be prepaid and are not refundable or transferrable to
+        another date. Therefore, <strong>there are no refunds</strong> for
+        trip fees.
+    </p>
+    <p>
+        In the event you cannot attend the dive, you may find a suitable
+        replacement diver to take your place. You must work out the money
+        transfer between the replacement yourself, no refunds will be issued.
+    </p>
+    <p>
+        Deposits and full trip fees will only be returned in the event that the
+        trip is cancelled and any funds paid out can be recovered.
+    </p>
+    <p>
+        You are encouraged to consider
+        <strong><a href="https://www.diversalertnetwork.org/trip/">trip insurance</a></strong>
+        in order to recover your trip fees in the event of a problem.
+    </p>
+
     <h2>Registration</h2>
     <p>
         A $350.00 <strong>non-refundable</strong> deposit is required to hold
@@ -167,5 +219,6 @@
     <p>
         Payment via cash, check (payable to "Paul Rentschler"), or
         credit card (Visa, Mastercard, Discover, American Express).
+        Credit card must be in person.
     </p>
 </div>
