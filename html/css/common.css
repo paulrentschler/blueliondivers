@@ -20,7 +20,7 @@ a:hover {
 
 
 .hero-unit {
-    background-image: url('../img/lone-diver.jpg');
+    background-image: url('/img/lone-diver.jpg');
     background-repeat: no-repeat;
     color: white;
 }
@@ -71,8 +71,8 @@ a:hover {
 .infoBox {
     /* background-color: #A8CDFF; */
     background-color: #DDECFF;
-    border-radius: 15px; 
-    -moz-border-radius: 15px; 
+    border-radius: 15px;
+    -moz-border-radius: 15px;
     -webkit-border-radius: 15px;
 }
 
@@ -208,4 +208,14 @@ ul.eventList > li ul {
     margin-left: -6px;
     margin-top: 2px;
     opacity: 0.25;
+}
+
+
+/*** Bonne Terre Mine trip ***/
+
+.bonne-terre .hero-unit {
+    background-image: url('/trips/bonne-terre.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
 }
