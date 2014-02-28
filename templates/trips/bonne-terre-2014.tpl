@@ -43,24 +43,18 @@
         <li>
             <h3>How many</h3>
             <p>There is space for 9 divers on the trip.</p>
-            <p>
-                The trip will be filled on a first pay basis. A $350.00
-                <strong>non-refundable</strong> deposit is required to
-                hold your spot.
-            </p>
-            <p>
-                All trip fees are <strong>non-refundable</strong> and
-                <strong>only for this date</strong>, you are
-                encouraged to consider
-                <a href="https://www.diversalertnetwork.org/trip/">trip insurance</a>.
-            </p>
         </li>
         <li>
-            <h3>How Much</h3>
+            <h3>How much</h3>
             <p>
                 <strong>$465.00</strong>
                 (includes diving, guide tips, 2 nights hotel, transportation,
                 and all applicable taxes)
+            </p>
+            <p>
+                The trip will be filled on a first pay basis. A $350.00
+                <strong>non-refundable</strong> deposit is required to
+                hold your spot.
             </p>
             <p>
                 All trip fees are <strong>non-refundable</strong> and
@@ -105,7 +99,7 @@
 
     <h3>The dives</h3>
     <p>
-        We will be doing 3 dives on Saturday roughly at the following times:
+        We will be doing 3 dives on Saturday at the following approximate times:
         <ul>
             <li>9:00am</li>
             <li>1:00pm</li>
@@ -199,11 +193,11 @@
     <p>
         In the event you cannot attend the dive, you may find a suitable
         replacement diver to take your place. You must work out the money
-        transfer between the replacement yourself, no refunds will be issued.
+        transfer between you and the replacement diver, no refunds will be issued.
     </p>
     <p>
         Deposits and full trip fees will only be returned in the event that the
-        trip is cancelled and any funds paid out can be recovered.
+        trip is cancelled and funds paid out can be recovered.
     </p>
     <p>
         You are encouraged to consider
@@ -220,5 +214,9 @@
         Payment via cash, check (payable to "Paul Rentschler"), or
         credit card (Visa, Mastercard, Discover, American Express).
         Credit card must be in person.
+    </p>
+    <p>
+        If you have questions or want to arrange for registration, please
+        <a href="/contact">use the contact form</a>.
     </p>
 </div>
