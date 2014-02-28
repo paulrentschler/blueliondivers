@@ -121,7 +121,7 @@
       <ul class="eventList">
         <li>
           <h3>Annual Sunken Treasure Wine &amp; Cheese Party</h3>
-          <div class="datetime">Sunday, March 2nd &mdash; 6pm - 10pm (tentative)</div>
+          <div class="datetime">Friday, March 7th &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://divestsc.com/">Sunken Treasure Scuba Center</a>
             &mdash; 664 Geiler Hollow Road, Jersey Shore, PA 17740
