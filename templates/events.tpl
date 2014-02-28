@@ -167,22 +167,20 @@
             &mdash; Hwy 47 &amp; Allen St, Bonne Terre, MO 63628
           </div>
           <p>
-            Dive under a town!
-          </p>
-          <p>
             Listed as one of America's Top 10 greatest adventures by National
             Geographic, Bonne Terre Mine in Missouri is an experience like none
             other.
           </p>
           <p>
-            Over 100 feet of visiblity and 65 degree water temps - YEAR ROUND!
+            Over 100 feet of visiblity and 60 degree water temps - YEAR ROUND!
           </p>
           <p>
-            It's about a 12.5 hour drive so we will be driving out on Friday,
+            It's about a 13 hour drive so we will be driving out on Friday,
             doing three guided dives on Saturday, and driving back on Sunday.
           </p>
           <p>
-            Additional details and pricing will be posted later.
+            <a href="/trips/bonne-terre-2014">Additional details and pricing</a>
+            <strong>now available</strong>.
           </p>
         </li>
         <li>
