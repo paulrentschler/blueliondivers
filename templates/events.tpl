@@ -186,19 +186,6 @@
           </p>
         </li>
         <li>
-          <h3>Annual Sunken Treasure Scuba Swap</h3>
-          <div class="datetime">TBA</div>
-          <div class="location">
-            <a href="http://divestsc.com/">Sunken Treasure Scuba Center</a>
-            &mdash; 664 Geiler Hollow Road, Jersey Shore, PA 17740
-          </div>
-          <p>
-            Our "local" scuba shop hosts an annual scuba swap to give local divers
-            the opportunity to sell their used equipment or to purchase gently-used
-            equipment to round out their collection.
-          </p>
-        </li>
-        <li>
           <h3>Penn State Blue-White Tailgate</h3>
           <div class="datetime">Saturday, April 12th &mdash; 9am - 2pm</div>
           <div class="location">
@@ -234,6 +221,19 @@
     <section id="may">
       <h2>May 2014</h2>
       <ul class="eventList">
+        <li>
+          <h3>Annual Sunken Treasure Scuba Swap</h3>
+          <div class="datetime">Saturday, May 10th &mdash; 10am</div>
+          <div class="location">
+            <a href="http://divestsc.com/">Sunken Treasure Scuba Center</a>
+            &mdash; 664 Geiler Hollow Road, Jersey Shore, PA 17740
+          </div>
+          <p>
+            Our "local" scuba shop hosts an annual scuba swap to give local divers
+            the opportunity to sell their used equipment or to purchase gently-used
+            equipment to round out their collection.
+          </p>
+        </li>
         <li>
           <h3>St. Lucia</h3>
           <div class="datetime">TBA</div>
