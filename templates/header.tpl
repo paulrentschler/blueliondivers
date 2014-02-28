@@ -80,6 +80,7 @@ $globalNav = array(
                 <?php } else { ?>
                   <li>
                 <?php } ?>
+                  <?php $url = ((substr($url, 0, 1) == '/') ? $url : '/'.$url) ?>
                   <a href="<?php echo $url?>"><?php echo $label?></a>
                 </li>
               <?php } ?>
