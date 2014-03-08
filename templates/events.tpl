@@ -283,6 +283,36 @@
           </p>
         </li>
         <li>
+          <h3>Lake Erie Dive</h3>
+          <div class="datetime">Saturday, June 13th</div>
+          <div class="location">
+            Dobbins Landing, Erie, PA
+          </div>
+          <p>
+            This event is being organized and run by
+            <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>.
+            For questions or to sign up for the trip, contact them.
+          </p>
+          <p>
+            More details will be posted when they become available.
+          </p>
+        </li>
+        <li>
+          <h3>Lake Erie Dive</h3>
+          <div class="datetime">Sunday, June 14th</div>
+          <div class="location">
+            Dobbins Landing, Erie, PA
+          </div>
+          <p>
+            This event is being organized and run by
+            <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>.
+            For questions or to sign up for the trip, contact them.
+          </p>
+          <p>
+            More details will be posted when they become available.
+          </p>
+        </li>
+        <li>
           <h3>Willow Springs Dive</h3>
           <div class="datetime">Saturday, June 21th &mdash; 7am - 9pm</div>
           <div class="location">
@@ -307,36 +337,6 @@
             dive at Blue Hole. We will be sharing the quarry with our friends,
             <a href="http://www.laureldivers.com/">the Laurel Divers</a>, who
             are always fun to hang out with.
-          </p>
-        </li>
-        <li>
-          <h3>Lake Erie Dive</h3>
-          <div class="datetime">Saturday, June 28th</div>
-          <div class="location">
-            Dobbins Landing, Erie, PA
-          </div>
-          <p>
-            This event is being organized and run by
-            <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>.
-            For questions or to sign up for the trip, contact them.
-          </p>
-          <p>
-            More details will be posted when they become available.
-          </p>
-        </li>
-        <li>
-          <h3>Lake Erie Dive</h3>
-          <div class="datetime">Sunday, June 29th</div>
-          <div class="location">
-            Dobbins Landing, Erie, PA
-          </div>
-          <p>
-            This event is being organized and run by
-            <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>.
-            For questions or to sign up for the trip, contact them.
-          </p>
-          <p>
-            More details will be posted when they become available.
           </p>
         </li>
 
