@@ -61,8 +61,8 @@
 # Possible values include: debug, info, notice, warn, error, crit, alert, emerg.
 ###
     LogLevel warn
-    CustomLog /var/log/apache2/blueliondivers.com/www-access.log combined
-    ErrorLog /var/log/apache2/blueliondivers.com/www-error.log
+    CustomLog /var/log/apache2/blueliondivers.com/www/access.log combined
+    ErrorLog /var/log/apache2/blueliondivers.com/www/error.log
     
     
 </VirtualHost>
