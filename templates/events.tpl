@@ -726,21 +726,6 @@
       <h2>December 2014</h2>
       <ul class="eventList">
         <li>
-          <h3>Annual Sunken Treasure Christmas Party</h3>
-          <div class="datetime">Friday, December 5th &mdash; 6pm - 11pm</div>
-          <div class="location">
-            <a href="http://divestsc.com/">Sunken Treasure Scuba Center</a>
-            &mdash; 664 Geiler Hollow Road, Jersey Shore, PA 17740
-          </div>
-          <p>
-            Close out another great scuba season with some holiday snacks
-            and good scuba talk. Rich Best of Sunken Treasure hosts
-            an excellent Christmas party every year. It's a great chance
-            to meet more divers, socialize, and pickup up some little gadgets
-            as stocking stuffers for that favorite diver on your shopping list.
-          </p>
-        </li>
-        <li>
           <h3>Sunday Night Social</h3>
           <div class="datetime">Sunday, December 7th &mdash; 7pm - 10pm</div>
           <div class="location">
@@ -759,6 +744,25 @@
           <p>
             We typically sit in the booths in front of the wine closet. There
             will be a dive flag table tent to identify us.
+          </p>
+        </li>
+        <li>
+          <h3>Annual Sunken Treasure Christmas Party</h3>
+          <div class="datetime">Friday, December 12th &mdash; 6:30pm - 9pm</div>
+          <div class="location">
+            <a href="http://divestsc.com/">Sunken Treasure Scuba Center</a>
+            &mdash; 664 Geiler Hollow Road, Jersey Shore, PA 17740
+          </div>
+          <p>
+            Close out another great scuba season with some holiday snacks
+            and good scuba talk. Rich Best of Sunken Treasure hosts
+            an excellent Christmas party every year. It's a great chance
+            to meet more divers, socialize, and pickup up some little gadgets
+            as stocking stuffers for that favorite diver on your shopping list.
+          </p>
+          <p>
+            We will be organizing a group trip with car pooling to attend.
+            <a href="https://docs.google.com/forms/d/1pJ37hXWt8Z7TaGmF_2RWkYWD5cnUAjXNPgcriBlZB18/viewform">Get the details and/or RSVP</a>.
           </p>
         </li>
         <li>
