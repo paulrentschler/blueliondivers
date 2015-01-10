@@ -21,11 +21,11 @@
     </p>
 
     <section id="january">
-      <h2>January 2014</h2>
+      <h2>January 2015</h2>
       <ul class="eventList">
         <li>
           <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, January 12th &mdash; 7pm - 10pm</div>
+          <div class="datetime">Sunday, January 18th &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
             &mdash; 821 Cricklewood Drive, State College, PA 16803
@@ -34,6 +34,11 @@
             It's too cold for most of us to be diving, so come out and talk
             diving. Local musicians, Ted and Molly, provide
             great background music while we socialize and/or play pool.
+          </p>
+          <p>
+            This will be a reunion meetup for those divers who attended the
+            2014 Key West Island Tours trip. Bring your photos and stories, but
+            remember: what happens in Key West, stays in Key West!
           </p>
           <p>
             We are starting at 7pm to give us an hour of quieter (no music)
@@ -46,7 +51,7 @@
         </li>
         <li>
           <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, January 26th &mdash; 7pm - 10pm</div>
+          <div class="datetime">Sunday, January 25th &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
             &mdash; 821 Cricklewood Drive, State College, PA 16803
@@ -69,11 +74,11 @@
     </section>
 
     <section id="february">
-      <h2>February 2014</h2>
+      <h2>February 2015</h2>
       <ul class="eventList">
         <li>
           <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, February 9th &mdash; 7pm - 10pm</div>
+          <div class="datetime">Sunday, February 1st &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
             &mdash; 821 Cricklewood Drive, State College, PA 16803
@@ -94,7 +99,7 @@
         </li>
         <li>
           <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, February 23rd &mdash; 7pm - 10pm</div>
+          <div class="datetime">Sunday, February 15th &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
             &mdash; 821 Cricklewood Drive, State College, PA 16803
@@ -117,8 +122,9 @@
     </section>
 
     <section id="march">
-      <h2>March 2014</h2>
+      <h2>March 2015</h2>
       <ul class="eventList">
+        <!--
         <li>
           <h3>Annual Sunken Treasure Wine &amp; Cheese Party</h3>
           <div class="datetime">Friday, March 7th &mdash; 7pm - 10pm</div>
@@ -134,14 +140,57 @@
             scuba gadgets in his shop.
           </p>
         </li>
+        -->
+        <li>
+          <h3>Sunday Night Social</h3>
+          <div class="datetime">Sunday, March 1st &mdash; 7pm - 10pm</div>
+          <div class="location">
+            <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
+            &mdash; 821 Cricklewood Drive, State College, PA 16803
+          </div>
+          <p>
+            It's too cold for most of us to be diving, so come out and talk
+            diving. Local musicians, Ted and Molly, provide
+            great background music while we socialize and/or play pool.
+          </p>
+          <p>
+            We are starting at 7pm to give us an hour of quieter (no music)
+            conversation time before the music starts at 8pm.
+          </p>
+          <p>
+            We typically sit in the booths in front of the wine closet. There
+            will be a dive flag table tent to identify us.
+          </p>
+        </li>
+        <li>
+          <h3>Sunday Night Social</h3>
+          <div class="datetime">Sunday, March 15th &mdash; 7pm - 10pm</div>
+          <div class="location">
+            <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
+            &mdash; 821 Cricklewood Drive, State College, PA 16803
+          </div>
+          <p>
+            It's too cold for most of us to be diving, so come out and talk
+            diving. Local musicians, Ted and Molly, provide
+            great background music while we socialize and/or play pool.
+          </p>
+          <p>
+            We are starting at 7pm to give us an hour of quieter (no music)
+            conversation time before the music starts at 8pm.
+          </p>
+          <p>
+            We typically sit in the booths in front of the wine closet. There
+            will be a dive flag table tent to identify us.
+          </p>
+        </li>
         <li>
           <h3><a href="http://www.beneaththesea.org/">Beneath the Sea</a></h3>
-          <div class="datetime">March 28th - 30th</div>
+          <div class="datetime">March 27th - 29th</div>
           <div class="location">
             Meadowlands Convention Center, Secaucus, NJ
           </div>
           <p>
-            This is the premier consumer scuba show in the United States. In it's 38th
+            This is the premier consumer scuba show in the United States. In it's 39th
             year, this expo hosts 400 exhibitors which includes equipment manufacturers,
             dive destinations, certifying agencies, and much, much more. In addition
             to the exhibits, Beneath the Sea plays host to a number of excellent
@@ -157,11 +206,11 @@
     </section>
 
     <section id="april">
-      <h2>April 2014</h2>
+      <h2>April 2015</h2>
       <ul class="eventList">
         <li>
           <h3>Bonne Terre Mine Dive</h3>
-          <div class="datetime">April 4th - 6th</div>
+          <div class="datetime">April 10th - 12th</div>
           <div class="location">
             <a href="http://www.2dive.com/btm.htm">Bonne Terre Mine</a>
             &mdash; Hwy 47 &amp; Allen St, Bonne Terre, MO 63628
@@ -178,20 +227,22 @@
             It's about a 13 hour drive so we will be driving out on Friday,
             doing three guided dives on Saturday, and driving back on Sunday.
           </p>
+          <!--
           <p>
-            <a href="/trips/bonne-terre-2014">Additional details and pricing</a>
+            <a href="/trips/bonne-terre-2015">Additional details and pricing</a>
             <strong>now available</strong>.
           </p>
+          -->
         </li>
         <li>
           <h3>Penn State Blue-White Tailgate</h3>
-          <div class="datetime">Saturday, April 12th &mdash; 9am - 2pm</div>
+          <div class="datetime">Saturday, April 18th &mdash; 9am - 2pm</div>
           <div class="location">
             Beaver Stadium, University Park, PA 16802
           </div>
           <p>
             The Blue-White game; Penn State's unofficial spring reunion and
-            scrimmage to showcase the 2014 football team. Since we are based
+            scrimmage to showcase the 2015 football team. Since we are based
             in State College and tailgating is what the locals do when
             Penn State plays football we are going to join in. Come out, talk
             <strike>scuba</strike> football, and join in the fun!
@@ -199,14 +250,14 @@
         </li>
         <li>
           <h3>Annual Blue-White Dive</h3>
-          <div class="datetime">Sunday, April 13th &mdash; 9am - 3pm</div>
+          <div class="datetime">Sunday, April 19th &mdash; 9am - 3pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
           <p>
             While there are lots of activities going on Blue-White weekend, they
             always seem to exclude scuba. Well, we are bound to change that. In
-            it's 4th or 5th year, we are going to continue the tradition of going
+            it's 5th or 6th year, we are going to continue the tradition of going
             diving the day after the Blue-White football game. So if your coming
             to town for the game, don't forget your gear and make sure you have
             that <a href="https://www.smartwaiver.com/w/52c1a317552c5/web/">Blue
@@ -217,8 +268,9 @@
     </section>
 
     <section id="may">
-      <h2>May 2014</h2>
+      <h2>May 2015</h2>
       <ul class="eventList">
+        <!--
         <li>
           <h3>Annual Sunken Treasure Scuba Swap</h3>
           <div class="datetime">Saturday, May 10th &mdash; 10am</div>
@@ -232,89 +284,10 @@
             equipment to round out their collection.
           </p>
         </li>
-        <li>
-          <h3>St. Lucia</h3>
-          <div class="datetime">TBA</div>
-          <div class="location">
-            Marigot Bay, St. Lucia, W.I.
-          </div>
-          <p>
-            Previously a Penn State continuing education course, the yearly
-            trip to the beautiful island of St. Lucia is now a Blue Lion event
-            and EVERYONE is invited to attend.
-          </p>
-          <p>
-            This trip is still in the planning stages.
-          </p>
-          <p>
-            Tentatively the trip will be 7 days and 6 nights sometime between
-            May 11th and May 24th. There will be 12 dives including a night
-            dive and many additional land activities.
-          </p>
-        </li>
-        <li>
-          <h3>Memorial Day Dive</h3>
-          <div class="datetime">Monday, May 26th</div>
-          <div class="location">
-            Taking Suggestions
-          </div>
-          <p>
-            Memorial Day seems like an excellent opportunity for a dive. Suggestions
-            are welcome on where to go. This could also be converted into a multi-day
-            camping trip if there is interest.
-          </p>
-        </li>
-      </ul>
-    </section>
-
-    <section id="june">
-      <h2>June 2014</h2>
-      <ul class="eventList">
-        <li>
-          <h3>Friday Night Dive</h3>
-          <div class="datetime">Friday, June 13th &mdash; 6pm - 11pm</div>
-          <div class="location">
-            Blue Hole Quarry
-          </div>
-          <p>
-            The days are long and the weather is warm. Best of all, we don't have to
-            get up and go to work in the morning. So come out and enjoy a night
-            dive at Blue Hole.
-          </p>
-        </li>
-        <li>
-          <h3>Lake Erie Dive</h3>
-          <div class="datetime">Saturday, June 13th</div>
-          <div class="location">
-            Dobbins Landing, Erie, PA
-          </div>
-          <p>
-            This event is being organized and run by
-            <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>.
-            For questions or to sign up for the trip, contact them.
-          </p>
-          <p>
-            More details will be posted when they become available.
-          </p>
-        </li>
-        <li>
-          <h3>Lake Erie Dive</h3>
-          <div class="datetime">Sunday, June 14th</div>
-          <div class="location">
-            Dobbins Landing, Erie, PA
-          </div>
-          <p>
-            This event is being organized and run by
-            <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>.
-            For questions or to sign up for the trip, contact them.
-          </p>
-          <p>
-            More details will be posted when they become available.
-          </p>
-        </li>
+        -->
         <li>
           <h3>Willow Springs Dive</h3>
-          <div class="datetime">Saturday, June 21th &mdash; 7am - 9pm</div>
+          <div class="datetime">Saturday, May 9th &mdash; 7am - 9pm</div>
           <div class="location">
             <a href="http://www.willowspringspark.com/">Willow Springs Park</a>
             &mdash; 199 Millardsville Road, Richland, PA 17087
@@ -326,78 +299,46 @@
           </p>
         </li>
         <li>
-          <h3>Friday Night Dive</h3>
-          <div class="datetime">Friday, June 27th &mdash; 6pm - 11pm</div>
+          <h3>Dutch Springs Dive</h3>
+          <div class="datetime">Saturday, May 30th &mdash; 7am - 9pm</div>
           <div class="location">
-            Blue Hole Quarry
+            <a href="http://dutchsprings.com/">Dutch Springs</a>
+            &mdash; 4733 Hanoverville Road, Bethlehem, PA 18020
           </div>
           <p>
-            The days are long and the weather is warm. Best of all, we don't have to
-            get up and go to work in the morning. So come out and enjoy a night
-            dive at Blue Hole. We will be sharing the quarry with our friends,
-            <a href="http://www.laureldivers.com/">the Laurel Divers</a>, who
-            are always fun to hang out with.
+            Dutch Springs is the premier fresh water dive site in the
+            northeastern United States with 30+ feet of visibility and lots
+            of great attractions to dive on.
+          </p>
+          <p>
+            If you are new to Pennsylvania diving, this is the place to start!
           </p>
         </li>
-
-        <!--
-        <li>
-          <h3>Meet and Greet Happy Hour</h3>
-          <div class="datetime">Wednesday, June 19th &mdash; 5pm - 7pm</div>
-          <div class="location">
-            <a href="http://westsidestadiumbarandgrill.com/">Westside Stadium Bar and Grill</a>
-            &mdash; 1301 W College Ave, State College, PA 16801
-          </div>
-          <p>
-            Come out and meet fellow divers in the State College area.
-            Find out what we are doing, meet some potential new dive buddies,
-            and swap tall tails over a pint of your favorite beverage.
-          </p>
-          <p>
-            The Westside stadium is located on the corner of West College Ave
-            and Corl Street. <em>Let's face it, this is the closest you're
-            going to get to "coral" in central PA.</em>
-          </p>
-          <p>
-            When you arrive, look for people on the deck wearing scuba shirts.
-          </p>
-        </li>
-        -->
       </ul>
     </section>
 
-    <section id="july">
-      <h2>July 2014</h2>
+    <section id="june">
+      <h2>June 2015</h2>
       <ul class="eventList">
         <li>
-          <h3>Friday Night Dive</h3>
-          <div class="datetime">Friday, July 11th &mdash; 6pm - 11pm</div>
+          <h3>Bainbridge Dive</h3>
+          <div class="datetime">Saturday, June 13th &mdash; 7am - 9pm</div>
           <div class="location">
-            Blue Hole Quarry
+            <a href="http://www.divebsc.com/">Bainbridge Scuba Center</a>
+            &mdash; 2037 River Road, Bainbridge, PA 17502
           </div>
           <p>
-            The days are long and the weather is warm. Best of all, we don't have to
-            get up and go to work in the morning. So come out and enjoy a night
-            dive at Blue Hole.
+            Come out for some
+            great deep diving at Bainbridge. Sporting attractions at 90 feet,
+            30 feet, and all depths in-between.
+          </p>
+          <p>
+            Note: these dives are recommended for advanced certified divers.
           </p>
         </li>
         <li>
-          <h3>Friday Night Dive</h3>
-          <div class="datetime">Friday, July 25th &mdash; 6pm - 11pm</div>
-          <div class="location">
-            Blue Hole Quarry
-          </div>
-          <p>
-            The days are long and the weather is warm. Best of all, we don't have to
-            get up and go to work in the morning. So come out and enjoy a night
-            dive at Blue Hole. We will be sharing the quarry with our friends,
-            <a href="http://www.laureldivers.com/">the Laurel Divers</a>, who
-            are always fun to hang out with.
-          </p>
-        </li>
-        <li>
-          <h3>Lake Rawlings Dive</h3>
-          <div class="datetime">July 25th - 27th</div>
+          <h3>2nd Annual Rawlings Rally</h3>
+          <div class="datetime">June 19th - 21th</div>
           <div class="location">
             <a href="http://www.lakerawlings.com/">Lake Rawlings</a>
             &mdash; One Quarry Ln, Rawlings, VA 23876
@@ -430,6 +371,122 @@
             Additional details and pricing will be posted later.
           </p>
         </li>
+        <li>
+          <h3>Friday Night Dive</h3>
+          <div class="datetime">Friday, June 26th &mdash; 6pm - 11pm</div>
+          <div class="location">
+            Blue Hole Quarry
+          </div>
+          <p>
+            The days are long and the weather is warm. Best of all, we don't have to
+            get up and go to work in the morning. So come out and enjoy a night
+            dive at Blue Hole. We will be sharing the quarry with our friends,
+            <a href="http://www.laureldivers.com/">the Laurel Divers</a>, who
+            are always fun to hang out with.
+          </p>
+        </li>
+        <!--
+        <li>
+          <h3>Lake Erie Dive</h3>
+          <div class="datetime">Saturday, June 13th</div>
+          <div class="location">
+            Dobbins Landing, Erie, PA
+          </div>
+          <p>
+            This event is being organized and run by
+            <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>.
+            For questions or to sign up for the trip, contact them.
+          </p>
+          <p>
+            More details will be posted when they become available.
+          </p>
+        </li>
+        <li>
+          <h3>Lake Erie Dive</h3>
+          <div class="datetime">Sunday, June 14th</div>
+          <div class="location">
+            Dobbins Landing, Erie, PA
+          </div>
+          <p>
+            This event is being organized and run by
+            <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>.
+            For questions or to sign up for the trip, contact them.
+          </p>
+          <p>
+            More details will be posted when they become available.
+          </p>
+        </li>
+        -->
+        <!--
+        <li>
+          <h3>Meet and Greet Happy Hour</h3>
+          <div class="datetime">Wednesday, June 19th &mdash; 5pm - 7pm</div>
+          <div class="location">
+            <a href="http://westsidestadiumbarandgrill.com/">Westside Stadium Bar and Grill</a>
+            &mdash; 1301 W College Ave, State College, PA 16801
+          </div>
+          <p>
+            Come out and meet fellow divers in the State College area.
+            Find out what we are doing, meet some potential new dive buddies,
+            and swap tall tails over a pint of your favorite beverage.
+          </p>
+          <p>
+            The Westside stadium is located on the corner of West College Ave
+            and Corl Street. <em>Let's face it, this is the closest you're
+            going to get to "coral" in central PA.</em>
+          </p>
+          <p>
+            When you arrive, look for people on the deck wearing scuba shirts.
+          </p>
+        </li>
+        -->
+      </ul>
+    </section>
+
+    <section id="july">
+      <h2>July 2015</h2>
+      <ul class="eventList">
+        <li>
+          <h3>Willow Springs Dive</h3>
+          <div class="datetime">Saturday, July 18th &mdash; 7am - 9pm</div>
+          <div class="location">
+            <a href="http://www.willowspringspark.com/">Willow Springs Park</a>
+            &mdash; 199 Millardsville Road, Richland, PA 17087
+          </div>
+          <p>
+            Willow Springs is a limestone quarry located in eastern PA with a max
+            depth of 45 feet and a multitude of attractions. Most attractions are
+            roped together making navigation easier.
+          </p>
+        </li>
+        <li>
+          <h3>Friday Night Dive</h3>
+          <div class="datetime">Friday, July 24th &mdash; 6pm - 11pm</div>
+          <div class="location">
+            Blue Hole Quarry
+          </div>
+          <p>
+            The days are long and the weather is warm. Best of all, we don't have to
+            get up and go to work in the morning. So come out and enjoy a night
+            dive at Blue Hole.
+          </p>
+        </li>
+        <li>
+          <h3>Dutch Springs Dive</h3>
+          <div class="datetime">Saturday, July 26th &mdash; 7am - 9pm</div>
+          <div class="location">
+            <a href="http://dutchsprings.com/">Dutch Springs</a>
+            &mdash; 4733 Hanoverville Road, Bethlehem, PA 18020
+          </div>
+          <p>
+            Dutch Springs is the premier fresh water dive site in the
+            northeastern United States with 30+ feet of visibility and lots
+            of great attractions to dive on.
+          </p>
+          <p>
+            If you are new to Pennsylvania diving, this is the place to start!
+          </p>
+        </li>
         <!--
         <li>
           <h3>Great Island Cleanup</h3>
@@ -448,11 +505,38 @@
     </section>
 
     <section id="august">
-      <h2>August 2014</h2>
+      <h2>August 2015</h2>
       <ul class="eventList">
         <li>
+          <h3>1st Annual Gilboa Gathering</h3>
+          <div class="datetime">July 31st - August 2nd</div>
+          <div class="location">
+            <a href="http://www.divegilboa.com/">Gilboa Quarry</a>
+            &mdash; 3763 Old State Route 224. Ottawa, OH 45875
+          </div>
+          <p>
+            The midwest's premier dive site, Gilboa Quarry, offers 14 acres of
+            diveable quarry with depths in excess of 130 feet and lots of
+            underwater attractions to allow for hours of underwater enjoyment.
+          </p>
+          <p>
+            Air/Nitrox fills and equipment rentals are available on site.
+          </p>
+          <p>
+            It's about a 6 hour drive so we will be driving out on Friday and
+            getting a dive or two in. Free for all diving on Saturday, and
+            then pack up and head home on Sunday.
+          </p>
+          <p>
+            We will be tent camping over night Friday and Saturday.
+          </p>
+          <p>
+            Additional details and pricing will be posted later.
+          </p>
+        </li>
+        <li>
           <h3>Bainbridge Dive</h3>
-          <div class="datetime">Saturday, August 9th &mdash; 7am - 9pm</div>
+          <div class="datetime">Saturday, August 15th &mdash; 7am - 9pm</div>
           <div class="location">
             <a href="http://www.divebsc.com/">Bainbridge Scuba Center</a>
             &mdash; 2037 River Road, Bainbridge, PA 17502
@@ -468,7 +552,7 @@
         </li>
         <li>
           <h3>Friday Night Dive</h3>
-          <div class="datetime">Friday, August 15th &mdash; 6pm - 11pm</div>
+          <div class="datetime">Friday, August 21th &mdash; 6pm - 11pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
@@ -479,8 +563,24 @@
           </p>
         </li>
         <li>
+          <h3>Dutch Springs Dive</h3>
+          <div class="datetime">Sunday, August 23rd &mdash; 7am - 9pm</div>
+          <div class="location">
+            <a href="http://dutchsprings.com/">Dutch Springs</a>
+            &mdash; 4733 Hanoverville Road, Bethlehem, PA 18020
+          </div>
+          <p>
+            Dutch Springs is the premier fresh water dive site in the
+            northeastern United States with 30+ feet of visibility and lots
+            of great attractions to dive on.
+          </p>
+          <p>
+            If you are new to Pennsylvania diving, this is the place to start!
+          </p>
+        </li>
+        <li>
           <h3>Friday Night Dive</h3>
-          <div class="datetime">Friday, August 29th &mdash; 6pm - 11pm</div>
+          <div class="datetime">Friday, August 28th &mdash; 6pm - 11pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
@@ -493,8 +593,29 @@
           </p>
         </li>
         <li>
+          <h3>Guppy Gulch Dive</h3>
+          <div class="datetime">Sunday, August 30th &mdash; 7am - 9pm</div>
+          <div class="location">
+            <a href="http://guppygulch.com/">Guppy Gulch</a>
+            &mdash; Guppy Valley Lane, Delta, PA 17314
+          </div>
+          <p>
+            Guppy Gulch is a unique PA diving experience. While most quarries
+            that we dive in are limestone, this is a slate quarry. The water
+            tends to be colder but in the shallows; it's very clear. This
+            quarry also has the highest number of attractions per square foot
+            of water.
+          </p>
+        </li>
+      </ul>
+    </section>
+
+    <section id="september">
+      <h2>September 2015</h2>
+      <ul class="eventList">
+        <li>
           <h3>Labor Day Houseboat Trip</h3>
-          <div class="datetime">Friday, August 29th &mdash; Monday, September 1st</div>
+          <div class="datetime">Saturday, September 5th &mdash; Monday, September 7th</div>
           <div class="location">
             <a href="http://www.raystownlake.com">Raystown Lake</a>
           </div>
@@ -529,12 +650,10 @@
             Additional details and pricing will be posted later.
           </p>
         </li>
-      </ul>
-    </section>
 
-    <section id="september">
-      <h2>September 2014</h2>
-      <ul class="eventList">
+
+
+        <!--
         <li>
           <h3>St Lawrence Seaway Dive</h3>
           <div class="datetime">Saturday, September 6th</div>
@@ -606,12 +725,14 @@
             Additional details and pricing will be posted later.
           </p>
         </li>
+        -->
       </ul>
     </section>
 
     <section id="october">
-      <h2>October 2014</h2>
+      <h2>October 2015</h2>
       <ul class="eventList">
+        <!--
         <li>
           <h3>Pumpkin Carving Dive</h3>
           <div class="datetime">To Be Announced</div>
@@ -628,9 +749,38 @@
             season. Great food, fun, and scuba talk!
           </p>
         </li>
+        -->
         <li>
-          <h3>Autumn Awesomeness</h3>
-          <div class="datetime">Saturday, October 18th &mdash; 1pm - 6pm</div>
+          <h3>Penn State Homecoming Tailgate</h3>
+          <div class="datetime">Saturday, October 10th</div>
+          <div class="location">
+            Beaver Stadium, University Park, PA 16802
+          </div>
+          <p>
+            Football tailgating is a Penn State tradition and homecoming is
+            the day for tailgating. Come out, talk
+            <strike>scuba</strike> football, and join in the fun!
+          </p>
+        </li>
+        <li>
+          <h3>Homecoming Dive</h3>
+          <div class="datetime">Sunday, October 11th &mdash; 9am - 3pm</div>
+          <div class="location">
+            Blue Hole Quarry
+          </div>
+          <p>
+            While there are lots of activities going on for homecoming, scuba
+            always seem to excluded. Well, we are bound to change that. Win
+            or lose, we are going diving the day after homecoming, so if
+            you're coming to town for the game, don't forget your gear and
+            make sure you have that
+            <a href="https://www.smartwaiver.com/w/52c1a317552c5/web/">Blue
+            Hole waiver</a> on file early.
+          </p>
+        </li>
+        <li>
+          <h3>3rd Annual Autumn Awesomeness</h3>
+          <div class="datetime">Sunday, October 25th &mdash; 1pm - 6pm</div>
           <div class="location">
             <a href="http://www.jbtreefarm.com/">JB Tree Farm</a>
             &mdash; 7500 JB Tree Farm Lane, Alexandria, Pa 16611
@@ -645,20 +795,29 @@
             <a href="http://www.punkinchunkin.com/">punkin chunkin</a> skills
             with their pumpkin slingshots!
           </p>
-          <p>
-            Last year was so much fun (even in the rain) that we are doing it
-            again this year.
-          </p>
         </li>
       </ul>
     </section>
 
     <section id="november">
-      <h2>November 2014</h2>
+      <h2>November 2015</h2>
       <ul class="eventList">
         <li>
+          <h3>Willow Springs Dive</h3>
+          <div class="datetime">Saturday, November 7th &mdash; 7am - 9pm</div>
+          <div class="location">
+            <a href="http://www.willowspringspark.com/">Willow Springs Park</a>
+            &mdash; 199 Millardsville Road, Richland, PA 17087
+          </div>
+          <p>
+            Willow Springs is a limestone quarry located in eastern PA with a max
+            depth of 45 feet and a multitude of attractions. Most attractions are
+            roped together making navigation easier.
+          </p>
+        </li>
+        <li>
           <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, November 2nd &mdash; 7pm - 10pm</div>
+          <div class="datetime">Sunday, November 8th &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
             &mdash; 821 Cricklewood Drive, State College, PA 16803
@@ -679,7 +838,7 @@
         </li>
         <li>
           <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, November 16th &mdash; 7pm - 10pm</div>
+          <div class="datetime">Sunday, November 15th &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
             &mdash; 821 Cricklewood Drive, State College, PA 16803
@@ -700,7 +859,28 @@
         </li>
         <li>
           <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, November 30th &mdash; 7pm - 10pm</div>
+          <div class="datetime">Sunday, November 22nd &mdash; 7pm - 10pm</div>
+          <div class="location">
+            <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
+            &mdash; 821 Cricklewood Drive, State College, PA 16803
+          </div>
+          <p>
+            It's too cold for most of us to be diving, so come out and talk
+            diving. Local musicians, Ted and Molly, provide
+            great background music while we socialize and/or play pool.
+          </p>
+          <p>
+            We are starting at 7pm to give us an hour of quieter (no music)
+            conversation time before the music starts at 8pm.
+          </p>
+          <p>
+            We typically sit in the booths in front of the wine closet. There
+            will be a dive flag table tent to identify us.
+          </p>
+        </li>
+        <li>
+          <h3>Sunday Night Social</h3>
+          <div class="datetime">Sunday, November 29th &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
             &mdash; 821 Cricklewood Drive, State College, PA 16803
@@ -723,11 +903,11 @@
     </section>
 
     <section id="december">
-      <h2>December 2014</h2>
+      <h2>December 2015</h2>
       <ul class="eventList">
         <li>
           <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, December 7th &mdash; 7pm - 10pm</div>
+          <div class="datetime">Sunday, December 6th &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
             &mdash; 821 Cricklewood Drive, State College, PA 16803
@@ -746,6 +926,7 @@
             will be a dive flag table tent to identify us.
           </p>
         </li>
+        <!--
         <li>
           <h3>Annual Sunken Treasure Christmas Party</h3>
           <div class="datetime">Friday, December 12th &mdash; 6:30pm - 9pm</div>
@@ -765,9 +946,10 @@
             <a href="https://docs.google.com/forms/d/1pJ37hXWt8Z7TaGmF_2RWkYWD5cnUAjXNPgcriBlZB18/viewform">Get the details and/or RSVP</a>.
           </p>
         </li>
+        -->
         <li>
-          <h3>Florida Keys Trip</h3>
-          <div class="datetime">December 26th &mdash; January 2nd</div>
+          <h3>Key West Island Tour Trip</h3>
+          <div class="datetime">December 27th &mdash; January 2nd</div>
           <div class="location">
             Sugarloaf Key, Florida
           </div>
@@ -778,9 +960,9 @@
             continued for the last 10+ years under the leadership of Jon Leslie.
           </p>
           <p>
-            Leave the day after Christmas for a 24-hour drive (or a much shorter plane
+            Leave two days after Christmas for a 24-hour drive (or a much shorter plane
             flight) to the KOA Campground on Sugarloaf Key (just 3 islands back from Key
-            West). December 28th, 29th, and 30th are spent enjoying the underwater wonders
+            West). December 29th and 30th are spent enjoying the underwater wonders
             of the Florida Keys. With shallow reefs and large shipwrecks there are dives
             perfect for beginners and experienced divers alike. When the diving ends,
             the partying begins as Key West comes alive for New Years Eve like no other
