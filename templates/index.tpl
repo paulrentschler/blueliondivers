@@ -9,7 +9,7 @@
 </div>
 
 <div class="row">
-  <div class="span4 infoBox">
+  <div class="span6 infoBox">
     <div>
         <h2>Calling all divers!</h2>
         <p>
@@ -26,7 +26,7 @@
         </p>
     </div>
   </div>
-  <div class="span4 infoBox">
+  <div class="span6 infoBox">
     <div>
         <h2>Penn State Alumni</h2>
         <!--
@@ -46,21 +46,6 @@
         <p>
             <a class="btn btn-primary btn-large"
                href="penn-state">We Are &raquo;</a>
-        </p>
-    </div>
-  </div>
-  <div class="span4 infoBox">
-    <div>
-        <h2>Happy New Year!</h2>
-        <div style="margin: 1.4em 0;">
-          <p><strong style="font-size: 2em;">2</strong> new dive sites</p>
-          <p><strong style="font-size: 2em;">0</strong> accident goal</p>
-          <p><strong style="font-size: 2em;">1</strong> major trip</p>
-          <p><strong style="font-size: 2em;">4</strong> traditions continued</p>
-        </div>
-        <p>
-            <a class="btn btn-primary btn-large"
-               href="events">Learn More &raquo;</a>
         </p>
     </div>
   </div>
