@@ -51,6 +51,9 @@
         </li>
         <li>
           <h3>Sunday Night Social</h3>
+          <div class="alert alert-danger">
+            <strong>Cancelled</strong> This event has been cancelled.
+          </div>
           <div class="datetime">Sunday, January 25th &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
@@ -78,6 +81,10 @@
       <ul class="eventList">
         <li>
           <h3>Sunday Night Social</h3>
+          <div class="alert alert-danger">
+            <strong>Cancelled</strong> This event has been cancelled due to
+            the Super Bowl.
+          </div>
           <div class="datetime">Sunday, February 1st &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
@@ -96,6 +103,29 @@
             We typically sit in the booths in front of the wine closet. There
             will be a dive flag table tent to identify us.
           </p>
+        </li>
+        <li>
+          <h3>27th Annual Scuba Super Market</h3>
+          <div class="datetime">Sunday, February 15th &mdash; 9am - 2pm</div>
+          <div class="location">
+            Toms River Intermediate South School &mdash;
+            1675 Pinewald Rd, Beachwood, NJ 08722
+          </div>
+          <p>
+            This is apparently the biggest and best scuba flea market in
+            New Jersey. Hosted by Ocean Wreck Divers of New Jersey.
+          </p>
+          <p>
+            New and used gear and other dive-related items. Sea critter touch
+            tank for the kids. Food, raffles, and door prices for everyone.
+          </p>
+          <p>
+            Admission is $5 at the door. Children under 12 are free with a paid adult.
+          </p>
+          <p>
+            <a href="http://www.oceanwreckdivers.com/fleamarket.html">
+              Complete details about the event.
+            </a>
         </li>
         <li>
           <h3>Sunday Night Social</h3>
@@ -322,6 +352,9 @@
       <ul class="eventList">
         <li>
           <h3>Bainbridge Dive</h3>
+          <div class="alert alert-danger">
+            <strong>Cancelled</strong> This dive has been cancelled.
+          </div>
           <div class="datetime">Saturday, June 13th &mdash; 7am - 9pm</div>
           <div class="location">
             <a href="http://www.divebsc.com/">Bainbridge Scuba Center</a>
