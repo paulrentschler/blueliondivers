@@ -264,6 +264,22 @@
       <h2>April 2015</h2>
       <ul class="eventList">
         <li>
+          <h3>April Fools Dive at Blue Hole</h3>
+          <div class="datetime">Saturday, April 1th &mdash; no time yet</div>
+          <div class="location">
+            Blue Hole Quarry
+          </div>
+          <p>
+            The <a href="http://www.laureldivers.com">Laurel Divers</a>
+            are hosting an April Fools dive at the quarry.
+          </p>
+          <p>
+            Be there or be the fool!
+            <span class="descreet">(or perhaps you will be the smart one
+            cause you will be warm and dry at home.)</span>
+          </p>
+        </li>
+        <li>
           <h3>Bonne Terre Mine Dive</h3>
           <div class="datetime">April 10th - 12th</div>
           <div class="location">
@@ -790,24 +806,18 @@
     <section id="october">
       <h2>October 2015</h2>
       <ul class="eventList">
-        <!--
         <li>
           <h3>Pumpkin Carving Dive</h3>
-          <div class="datetime">To Be Announced</div>
-        </li>
-        <li>
-          <h3>Annual Sunken Treasure Pig Roast</h3>
-          <div class="datetime">To Be Announced</div>
+          <div class="datetime">Saturday, October 3rd</div>
           <div class="location">
-            <a href="http://divestsc.com/">Sunken Treasure Scuba Center</a>
-            &mdash; 664 Geiler Hollow Road, Jersey Shore, PA 17740
+            Blue Hole Quarry
           </div>
           <p>
-            Our "local" scuba shop hosts an annual pig roast to close out the diving
-            season. Great food, fun, and scuba talk!
+            The <a href="http://www.laureldivers.com">Laurel Divers</a> will
+            be hosting their annual underwater pumpkin carving contest and
+            chili cookoff at Blue Hole Quarry.
           </p>
         </li>
-        -->
         <li>
           <h3>Penn State Homecoming Tailgate</h3>
           <div class="datetime">Saturday, October 10th</div>
