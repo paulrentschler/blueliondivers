@@ -275,8 +275,9 @@
           </p>
           <p>
             Be there or be the fool!
-            <span class="descreet">(or perhaps you will be the smart one
-            cause you will be warm and dry at home.)</span>
+          </p>
+          <p class="muted">Or perhaps you will be the smart one
+            cause you will be warm and dry at home.
           </p>
         </li>
         <li>
