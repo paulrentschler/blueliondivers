@@ -105,6 +105,31 @@
           </p>
         </li>
         <li>
+          <h3>Sunday Night Social</h3>
+          <div class="datetime">Sunday, February 8th &mdash; 7pm - 10pm</div>
+          <div class="location">
+            <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
+            &mdash; 821 Cricklewood Drive, State College, PA 16803
+          </div>
+          <p>
+            Having cancelled the last social in January due to lack of
+            advertising and the first one in February due to the SuperBowl,
+            we are adding this additional social by special request.
+          <p>
+            Come out and talk diving cause it's sure too cold to be doing
+            it in open water around here. Local musicians, Ted and Molly, provide
+            great background music while we socialize and/or play pool.
+          </p>
+          <p>
+            We are starting at 7pm to give us an hour of quieter (no music)
+            conversation time before the music starts at 8pm.
+          </p>
+          <p>
+            We typically sit in the booths in front of the wine closet. There
+            will be a dive flag table tent to identify us.
+          </p>
+        </li>
+        <li>
           <h3>27th Annual Scuba Super Market</h3>
           <div class="datetime">Sunday, February 15th &mdash; 9am - 2pm</div>
           <div class="location">
