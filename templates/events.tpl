@@ -657,7 +657,8 @@
             <a href="http://www.scubaventure.net">Scuba Venture</a> it is their
             "day" at Dutch Springs and they will be hosting a treasure hunt
             and a luau. You must <strong>pre-register at the store</strong>
-            in order to attend.
+            in order to attend their events. All are welcome to just dive with
+            Blue Lion Divers!
           </p>
         </li>
         <li>
