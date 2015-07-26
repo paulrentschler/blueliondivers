@@ -413,6 +413,10 @@
         </li>
         <li>
           <h3>2nd Annual Rawlings Rally</h3>
+          <div class="alert alert-danger">
+            <strong>Cancelled</strong> This dive has been cancelled due to
+            the unknown status of the lake due to an ownership change.
+          </div>
           <div class="datetime">June 19th - 21th</div>
           <div class="location">
             <a href="http://www.lakerawlings.com/">Lake Rawlings</a>
@@ -584,6 +588,9 @@
       <ul class="eventList">
         <li>
           <h3>1st Annual Gilboa Gathering</h3>
+          <div class="alert alert-danger">
+            <strong>Cancelled</strong> This dive has been cancelled.
+          </div>
           <div class="datetime">July 31st - August 2nd</div>
           <div class="location">
             <a href="http://www.divegilboa.com/">Gilboa Quarry</a>
@@ -611,6 +618,11 @@
         </li>
         <li>
           <h3>Bainbridge Dive</h3>
+          <div class="alert alert-danger">
+            <strong>Cancelled</strong> This dive has been cancelled in favor
+            of a dive at Dutch Springs in conjunction with Scuba Venture Day.
+          </div>
+
           <div class="datetime">Saturday, August 15th &mdash; 7am - 9pm</div>
           <div class="location">
             <a href="http://www.divebsc.com/">Bainbridge Scuba Center</a>
@@ -623,6 +635,29 @@
           </p>
           <p>
             Note: these dives are recommended for advanced certified divers.
+          </p>
+        </li>
+        <li>
+          <h3>Dutch Springs Dive</h3>
+          <div class="datetime">Saturday, August 15th &mdash; 7am - 9pm</div>
+          <div class="location">
+            <a href="http://dutchsprings.com/">Dutch Springs</a>
+            &mdash; 4733 Hanoverville Road, Bethlehem, PA 18020
+          </div>
+          <p>
+            Dutch Springs is the premier fresh water dive site in the
+            northeastern United States with 30+ feet of visibility and lots
+            of great attractions to dive on.
+          </p>
+          <p>
+            If you are new to Pennsylvania diving, this is the place to start!
+          </p>
+          <p>
+            For those of you who are customers of
+            <a href="http://www.scubaventure.net">Scuba Venture</a> it is their
+            "day" at Dutch Springs and they will be hosting a treasure hunt
+            and a luau. You must <strong>pre-register at the store</strong>
+            in order to attend.
           </p>
         </li>
         <li>
@@ -903,6 +938,30 @@
           <p>
             We typically sit in the booths in front of the wine closet. There
             will be a dive flag table tent to identify us.
+          </p>
+        </li>
+        <li>
+          <h3>Bainbridge Dive</h3>
+          <div class="alert alert-info">
+            Andrew Gehringer Memorial Dive
+          </div>
+          <div class="datetime">Saturday, November 14th &mdash; 7am - 9pm</div>
+          <div class="location">
+            <a href="http://www.divebsc.com/">Bainbridge Scuba Center</a>
+            &mdash; 2037 River Road, Bainbridge, PA 17502
+          </div>
+          <p>
+            Come out for some great deep diving at Bainbridge. Sporting
+            attractions at 90 feet, 30 feet, and all depths in-between.
+          </p>
+          <p>
+            Note: these dives are recommended for advanced certified divers.
+          </p>
+          <p>
+            Andrew, an inaugural member of the club, tragically passed away
+            in December 2014. His last dive with the club was in November 2014
+            at Bainbridge. In his memory, we hold this dive at the same place
+            and around the same time as his last dive.
           </p>
         </li>
         <li>
