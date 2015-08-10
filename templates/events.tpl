@@ -617,7 +617,7 @@
           </p>
         </li>
         <li>
-          <h3>Meet and Greet Almost-Happy Hour</h3>
+          <h3>Meet -n- Greet Dinner</h3>
           <div class="datetime">Wednesday, August 12th &mdash; 6:30pm - 9pm</div>
           <div class="location">
             <a href="http://www.homedeliverypizza.net/">Home D Pizzeria</a>
@@ -748,6 +748,10 @@
         </li>
         <li>
           <h3>Guppy Gulch Dive</h3>
+          <div class="alert alert-info">
+            Current rumors are that this site is no longer open for scuba diving
+            so we may need to find a new destination.
+          </div>
           <div class="datetime">Sunday, August 30th &mdash; 7am - 9pm</div>
           <div class="location">
             <a href="http://guppygulch.com/">Guppy Gulch</a>
