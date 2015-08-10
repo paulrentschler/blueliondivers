@@ -656,7 +656,7 @@
         </li>
         <li>
           <h3>Dutch Springs Dive</h3>
-          <div class="datetime">Saturday, August 15th &mdash; 7am - 9pm</div>
+          <div class="datetime">Saturday, August 15th &mdash; 5am - 9pm</div>
           <div class="location">
             <a href="http://dutchsprings.com/">Dutch Springs</a>
             &mdash; 4733 Hanoverville Road, Bethlehem, PA 18020
@@ -676,6 +676,12 @@
             and a luau. You must <strong>pre-register at the store</strong>
             in order to attend their events. All are welcome to just dive with
             Blue Lion Divers!
+          </p>
+          <p>
+            Some of us are leaving State College around 5am to get to the quarry
+            in time for the Scuba Venture Treasure Hunt. This means we should
+            be at Dutch Springs around 10am and all are welcome to join us then
+            or later in the day.
           </p>
         </li>
         <li>
