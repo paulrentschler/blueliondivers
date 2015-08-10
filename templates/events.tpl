@@ -617,6 +617,23 @@
           </p>
         </li>
         <li>
+          <h3>Meet and Greet Almost-Happy Hour</h3>
+          <div class="datetime">Wednesday, August 12th &mdash; 6:30pm - 9pm</div>
+          <div class="location">
+            <a href="http://www.homedeliverypizza.net/">Home D Pizzeria</a>
+            &mdash; 1820 S Atherton St, State College, PA 16801
+          </div>
+          <p>
+            Come out and meet fellow divers in the State College area.
+            Find out what we are doing, meet some potential new dive buddies,
+            and swap tall tails over a pint of your favorite beverage and
+            plenty of good food.
+          </p>
+          <p>
+            When you arrive, look for people on the patio wearing scuba shirts.
+          </p>
+        </li>
+        <li>
           <h3>Bainbridge Dive</h3>
           <div class="alert alert-danger">
             <strong>Cancelled</strong> This dive has been cancelled in favor
@@ -659,6 +676,32 @@
             and a luau. You must <strong>pre-register at the store</strong>
             in order to attend their events. All are welcome to just dive with
             Blue Lion Divers!
+          </p>
+        </li>
+        <li>
+          <h3>Bainbridge Dive</h3>
+          <div class="alert alert-info">
+            Andrew Gehringer Memorial Dive
+          </div>
+          <div class="datetime">Sunday, August 16th &mdash; 7am - 9pm</div>
+          <div class="location">
+            <a href="http://www.divebsc.com/">Bainbridge Scuba Center</a>
+            &mdash; 2037 River Road, Bainbridge, PA 17502
+          </div>
+          <p>
+            Come out for some great deep diving at Bainbridge. Sporting
+            attractions at 90 feet, 30 feet, and all depths in-between.
+          </p>
+          <p>
+            Note: these dives are recommended for advanced certified divers.
+          </p>
+          <p>
+            Andrew, an inaugural member of the club, tragically passed away
+            in December 2014. His last dive with the club was in November 2014
+            at Bainbridge. In his memory, we hold this dive at the same place
+            and around the same time as his last dive. (Well the same time
+            was the intent, but Bainbridge has been sold and will close to
+            divers on August 23rd, so we needed to move it up.)
           </p>
         </li>
         <li>
@@ -943,6 +986,10 @@
         </li>
         <li>
           <h3>Bainbridge Dive</h3>
+          <div class="alert alert-danger">
+            <strong>Cancelled</strong> This dive has been cancelled because the
+            quarry was sold and closed to diving on August 23rd.
+          </div>
           <div class="alert alert-info">
             Andrew Gehringer Memorial Dive
           </div>
