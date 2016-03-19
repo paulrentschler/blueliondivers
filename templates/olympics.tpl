@@ -1,5 +1,5 @@
 <div class="row">
-    <h1>Pictures and/or videos from the St. Francis Scuba Olympics</h1>
+    <h1>St. Francis Scuba Olympics media</h1>
     <p class="lead">
         Upload your pictures and videos here so that Greg can create a montage video.
     </p>
