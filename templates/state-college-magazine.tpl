@@ -3,17 +3,17 @@
     <p class="lead">
         Scuba diving is a popular State College activity, learn more...
     </p>
-    
+
     <p>
         Thank you for your interest in the State College scuba diving
-        community. Blue Lion SCUBA Club is the place for State
+        community. Blue Lion Divers is the place for State
         College-area divers to connect above and below the waves.
         Information and resources for divers and non-divers alike can
         be found below.
         If you have questions, please
         <a href="/contact">contact us</a>, we are happy to help.
     </p>
-    
+
     <?php if (strtotime(date('Y-m-d')) <= strtotime('2013-07-17')) { ?>
         <div class="row">
             <div class="offset2 span8 infoBox">
@@ -37,10 +37,10 @@
                 </div>
             </div>
         </div>
-        
+
         <div class="row">&nbsp;</div>
     <?php } ?>
-    
+
     <div class="row">
         <div class="span6 infoBox">
             <div>
@@ -50,7 +50,7 @@
                     honing your dive skills.
                 </p>
                 <p>
-                    <strong>Practice your skills</strong> by going diving with 
+                    <strong>Practice your skills</strong> by going diving with
                     us! We are diving
                     <a href="/events">at least once a month</a> all
                     summer long.
@@ -73,20 +73,20 @@
                 </p>
             </div>
         </div>
-        
+
         <div class="span6 infoBox">
             <div>
                 <h2>Non-divers</h2>
                 <p>
                     Any time is a great time to learn to scuba dive, but summer is
-                    by far the best. Learn <strong>what's involved</strong> in 
+                    by far the best. Learn <strong>what's involved</strong> in
                     <a href="/learn-to-dive">learning to dive</a>. It's not
                     hard at all!
                 </p>
                 <p>
-                    If your looking to <strong>learn locally</strong>, 
+                    If your looking to <strong>learn locally</strong>,
                     <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>
-                    is offering a course this summer at the <strong>Millheim 
+                    is offering a course this summer at the <strong>Millheim
                     Community Pool</strong>.
                     It's being taught by one of club's members, James Turner.
                 </p>

@@ -3,7 +3,7 @@
     <p class="lead">
         A scuba club uniting the town, the gown, and beyond.
     </p>
-    
+
     <div style="float: right">
         <img src="/img/town-gown-mask.png" alt="scuba mask with a picture of
             Penn State's Old Main building in one lense and a picture of
@@ -28,7 +28,7 @@
         What were these abandoned divers to do, but start a new club!
     </p>
     <p>
-        Thus Blue Lion SCUBA Club was born and we exist to provide a club
+        Thus Blue Lion Divers was born and we exist to provide a club
         to allow the State College-area divers and any Penn State/Nittany
         Diver alumni a place to socialize and go diving. Read more about
         <a href="/about">our history</a>.

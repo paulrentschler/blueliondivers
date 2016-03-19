@@ -1,11 +1,11 @@
 <div class="row">
-    <h1>About the Blue Lion SCUBA Club</h1>
+    <h1>About the Blue Lion Divers</h1>
     <p class="lead">
         Facilitating diving activities and social events for scuba divers.
     </p>
-    
+
     <p>
-        Blue Lion SCUBA Club exists to provide a way for scuba divers
+        Blue Lion Divers exists to provide a way for scuba divers
         interested in scuba diving to associate with each other and most
         importantly go diving together. Our membership is focused on Penn
         State/Nittany Diver alumni and State College area divers but anyone
@@ -20,10 +20,10 @@
         If your interested in getting out and doing more diving, look at
         <a href="/join">joining us!</a>
     </p>
-    
+
     <h2>History</h2>
     <p>
-        Formed by Paul Rentschler in the spring of 2012, Blue Lion SCUBA Club
+        Formed by Paul Rentschler in the spring of 2012, Blue Lion Divers
         started out as little more than a Facebook group. It's main goal was
         to provide a way for a group of friends to plan and coordinate scuba
         diving outings to local quarries.
@@ -32,7 +32,7 @@
         In Fall 2012 policy changes at Penn State University left the State
         College community members and Penn State Alumni who use to be a part
         of the Penn State Nittany Divers without a dive club to call home.
-        Blue Lion SCUBA Club stepped in to provide a new home to these
+        Blue Lion Divers stepped in to provide a new home to these
         great divers.
     </p>
     <p>
@@ -45,12 +45,12 @@
         Sullivan. Ann is a member of the club and is happy to see the name
         live on.
     </p>
-    
+
     <h2>Paul Rentschler, Dive Facilitator</h2>
     <p>
         A resident of State College since 1996, Paul started out as an active
         diver and member of the <a href="http://www.nittanydivers.org">Penn
-        State Nittany Divers SCUBA Club</a> and currently serves as the club's
+        State Nittany Divers SCUBA club</a> and currently serves as the club's
         instructor.
     </p>
     <p>
@@ -60,7 +60,7 @@
     </p>
     <p>
         His passion for sharing the underwater world with others is what lead
-        him to create the Blue Lion SCUBA Club and actively oversee its
+        him to create the Blue Lion Divers and actively oversee its
         operation.
     </p>
     <p>

@@ -30,7 +30,7 @@ $globalNav = array(
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title><?php echo $page_title?> :: Blue Lion SCUBA Club</title>
+    <title><?php echo $page_title?> :: Blue Lion Divers</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="State College-based SCUBA club of divers interested in going diving">
     <meta name="author" content="Paul Rentschler">
@@ -65,7 +65,7 @@ $globalNav = array(
     <div class="navbar navbar-inverse navbar-static-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="/">Blue Lion SCUBA Club</a>
+          <a class="brand" href="/">Blue Lion Divers</a>
           <a class="btn btn-navbar" data-toggle="collapse"
              data-target=".nav-collapse">
             <span class="icon-bar"></span>

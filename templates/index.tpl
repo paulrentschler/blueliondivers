@@ -1,5 +1,5 @@
 <div class="hero-unit">
-    <h1>Blue Lion SCUBA Club!</h1>
+    <h1>Blue Lion Divers!</h1>
     <!--<p>A virtual group of divers interested in going diving.</p>-->
     <p>It's a big ocean, never dive alone.</p>
     <p>

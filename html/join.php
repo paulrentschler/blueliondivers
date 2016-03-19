@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Information on joining the Blue Lion SCUBA club
+ * Information on joining the Blue Lion Divers
  *
  * @author     Paul Rentschler <paul@rentschler.ws>
  * @since      27 May 2013

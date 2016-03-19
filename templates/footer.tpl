@@ -4,7 +4,7 @@
         <?php if ($page_active_url == '/') { ?>
           <p class="pull-right">Cover photo courtesy of Meredith Tkacs</p>
         <?php } ?>
-        <p>&copy; 2012-<?php echo date('Y')?> Blue Lion SCUBA Club. All Rights Reserved.</p>
+        <p>&copy; 2012-<?php echo date('Y')?> Blue Lion Divers. All Rights Reserved.</p>
       </footer>
     </div> <!-- /container -->
 

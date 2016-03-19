@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Keys Trip 2014 :: Blue Lion SCUBA Club</title>
+    <title>Keys Trip 2014 :: Blue Lion Divers</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="State College-based SCUBA club of divers interested in going diving">
     <meta name="author" content="Paul Rentschler">
@@ -27,7 +27,7 @@
     <div class="navbar navbar-inverse navbar-static-top">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="/">Blue Lion SCUBA Club</a>
+          <a class="brand" href="/">Blue Lion Divers</a>
           <a class="btn btn-navbar" data-toggle="collapse"
              data-target=".nav-collapse">
             <span class="icon-bar"></span>
@@ -297,7 +297,7 @@
 
       <hr>
       <footer>
-        <p>&copy; 2012-2014 Blue Lion SCUBA Club. All Rights Reserved.</p>
+        <p>&copy; 2012-2014 Blue Lion Divers. All Rights Reserved.</p>
       </footer>
     </div> <!-- /container -->
 

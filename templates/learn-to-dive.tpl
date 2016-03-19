@@ -4,11 +4,11 @@
         Two-thirds of the Earth's surface is covered in water, why not
         learn how to enjoy it!
     </p>
-    
+
     <h2>Overview</h2>
     <p>
-        Scuba diving is a self-regulated industry. That means that 
-        there are no laws requiring scuba certification in order 
+        Scuba diving is a self-regulated industry. That means that
+        there are no laws requiring scuba certification in order
         for you to scuba dive, but everyone in the scuba industry
         has gotten together and agreed on a minimum set of standards
         that everyone must meet in order to be qualified to scuba
@@ -31,25 +31,25 @@
         can obtain a referral from your instructor to go anywhere
         in the world to do your open water dives.
     </p>
-    
+
     <h2>Where can I take a course?</h2>
     <p>
-        Blue Lion SCUBA Club does not offer beginner "learn to dive"
+        Blue Lion Divers does not offer beginner "learn to dive"
         courses, but our local dives shops
         <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>
-        and <a href="http://www.rcscuba.net">R & C Scuba</a> have
+        and <a href="http://http://centralpascuba.com/">Central PA Scuba</a> have
         courses starting all the time.
     </p>
     <p>
         If you are a Penn State student, faculty or staff member you can
         learn to scuba dive through the KINES 45 course or in the
         evenings through the
-        <a href="http://www.athletics.psu.edu/advrec/scuba.html">Adventure
+        <a href="http://studentaffairs.psu.edu/campusrec/advrec/scuba.html">Adventure
         Recreation program</a>.
     </p>
-    
+
     <h2>Common Questions</h2>
-    
+
     <h3>Do I need to own my own equipment?</h3>
     <p>
         Typically the only equipment you need to purchase is a scuba mask,
@@ -60,7 +60,7 @@
         If your taking either of the Penn State courses, you do not need
         to purchase anything.
     </p>
-    
+
     <h3>Do I need to be able to swim?</h3>
     <p>
         You don't have to be an olympic-class swimmer, but basic swimming
@@ -71,7 +71,7 @@
         Every dive shop/instructor has different requirements for swimming
         proficiency, it's best to check with them for exact details.
     </p>
-    
+
     <h3>I have a medical condition, can I still learn to scuba dive?</h3>
     <p>
         Maybe. Some medical conditions preclude a person from safely
@@ -81,13 +81,13 @@
         physician's approval before taking the course.
     </p>
     <p>
-        For general information, you can read about 
-        <a href="http://www.diversalertnetwork.org/medical/faq/">common 
+        For general information, you can read about
+        <a href="http://www.diversalertnetwork.org/medical/faq/">common
         medical conditions and how they relate to scuba diving</a> on the
         Divers Alert Network website. Divers Alert Network is the premier
         diving medicine research and emergency assistance service for scuba divers.
     </p>
-    
+
     <h3>How long is my scuba certification good for?</h3>
     <p>
         Your certification is good for life. It is recommended that if you
@@ -96,10 +96,10 @@
         knowledge and scuba skills before going back into open water.
     </p>
     <p>
-        Blue Lion SCUBA Club does refreshers upon request, 
+        Blue Lion Divers does refreshers upon request,
         <a href="/contact">contact us</a> to arrange one.
     </p>
-    
+
     <h3>What are the names of these certifying agencies?</h3>
     <p>
         There are quite a few scuba certifying agencies worldwide.

@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Description and history of the Blue Lion SCUBA club
+ * Description and history of the Blue Lion Divers
  *
  * @author     Paul Rentschler <paul@rentschler.ws>
  * @since      27 May 2013

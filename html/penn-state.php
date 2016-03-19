@@ -1,7 +1,7 @@
 <?php
 
 /**
- * The Blue Lion SCUBA club / Penn State relationship
+ * The Blue Lion Divers / Penn State relationship
  *
  * @author     Paul Rentschler <paul@rentschler.ws>
  * @since      29 May 2013
