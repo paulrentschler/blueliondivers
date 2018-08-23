@@ -21,6 +21,7 @@
     </p>
 
     <section id="january">
+      <?php /*
       <h2>January 2015</h2>
       <ul class="eventList">
         <li>
@@ -74,9 +75,11 @@
           </p>
         </li>
       </ul>
+      */ ?>
     </section>
 
     <section id="february">
+      <?php /*
       <h2>February 2015</h2>
       <ul class="eventList">
         <li>
@@ -174,9 +177,11 @@
           </p>
         </li>
       </ul>
+      */ ?>
     </section>
 
     <section id="march">
+      <?php /*
       <h2>March 2015</h2>
       <ul class="eventList">
         <!--
@@ -258,9 +263,11 @@
           </p>
         </li>
       </ul>
+      */ ?>
     </section>
 
     <section id="april">
+      <?php /*
       <h2>April 2015</h2>
       <ul class="eventList">
         <li>
@@ -337,9 +344,11 @@
           </p>
         </li>
       </ul>
+      */ ?>
     </section>
 
     <section id="may">
+      <?php /*
       <h2>May 2015</h2>
       <ul class="eventList">
         <!--
@@ -387,9 +396,11 @@
           </p>
         </li>
       </ul>
+      */ ?>
     </section>
 
     <section id="june">
+      <?php /*
       <h2>June 2015</h2>
       <ul class="eventList">
         <li>
@@ -520,9 +531,11 @@
         </li>
         -->
       </ul>
+      */ ?>
     </section>
 
     <section id="july">
+      <?php /*
       <h2>July 2015</h2>
       <ul class="eventList">
         <li>
@@ -580,12 +593,14 @@
           </p>
         </li>
         -->
+        */ ?>
       </ul>
     </section>
 
     <section id="august">
-      <h2>August 2015</h2>
+      <h2>August 2018</h2>
       <ul class="eventList">
+        <!--
         <li>
           <h3>1st Annual Gilboa Gathering</h3>
           <div class="alert alert-danger">
@@ -710,18 +725,28 @@
             divers on August 23rd, so we needed to move it up.)
           </p>
         </li>
+        -->
         <li>
           <h3>Friday Night Dive</h3>
-          <div class="datetime">Friday, August 21th &mdash; 6pm - 11pm</div>
+          <div class="datetime">Friday, August 31th &mdash; 6pm - 11pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
           <p>
             The days are long and the weather is warm. Best of all, we don't have to
             get up and go to work in the morning. So come out and enjoy a night
-            dive at Blue Hole.
+            dive at Blue Hole with our friends from
+            <a href="http://www.laureldivers.com">Laurel Divers</a>.
           </p>
+          <p>
+            Don't forget to complete your
+            <a href="https://www.smartwaiver.com/w/59c9a6fe3e48f/web/"
+            >quarry waiver online</a> in advance of the trip (only needs
+            to be completed once a year).
+          </p>
+          <p>Entrance fee is $6</p>
         </li>
+        <!--
         <li>
           <h3>Dutch Springs Dive</h3>
           <div class="datetime">Sunday, August 23rd &mdash; 7am - 9pm</div>
@@ -771,12 +796,14 @@
             of water.
           </p>
         </li>
+        -->
       </ul>
     </section>
 
     <section id="september">
-      <h2>September 2015</h2>
+      <h2>September 2018</h2>
       <ul class="eventList">
+        <!--
         <li>
           <h3>Labor Day Houseboat Trip</h3>
           <div class="datetime">Saturday, September 5th &mdash; Monday, September 7th</div>
@@ -814,7 +841,7 @@
             Additional details and pricing will be posted later.
           </p>
         </li>
-
+        -->
 
 
         <!--
@@ -833,21 +860,120 @@
             More details will be posted when they become available.
           </p>
         </li>
+        -->
         <li>
           <h3>Blue Hole Fun Dive</h3>
-          <div class="datetime">Saturday, September 20th</div>
+          <div class="datetime">Saturday, September 3rd &mdash; 9am-5pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
           <p>
-            This event is being organized and run by
-            <a href="http://divestsc.com">Sunken Treasure Scuba Center</a>.
-            For questions or to sign up for the trip, contact them.
+            A small, private quarry located about an hour south of State
+            College near Altoona, PA. The quarry boasts 6 major attractions,
+            about 30 feet of depth and around 15 feet of visibility.
           </p>
           <p>
-            More details will be posted when they become available.
+            Don't forget to complete your
+            <a href="https://www.smartwaiver.com/w/59c9a6fe3e48f/web/"
+            >quarry waiver online</a> in advance of the trip (only needs
+            to be completed once a year).
+          </p>
+          <p>Entrance fee is $6</p>
+        </li>
+        <li>
+          <h3>Jay Street Fun Dive</h3>
+          <div class="datetime">Sunday, September 8th &mdash; 9am-5pm</div>
+          <div class="location">
+            Jay Street Bridge, Loch Haven, PA
+          </div>
+          <p>
+            The Jay Street Bridge in Loch Haven, PA stradles the west branch
+            of the Susquehanna River. This dive site typically has crystal
+            clear water, a very mild current, and depths around 20 feet.
+          </p>
+          <p>
+            A <a href="https://static1.squarespace.com/static/52f5008be4b0ec7646cd0b58/t/53571301e4b048c2dee0df2a/1398215425559/jstwaiver.pdf"
+            >one-time waiver</a> must be completed in order to dive this site.
           </p>
         </li>
+        <li>
+          <h3>Willow Springs Weekend Camp and Dive</h3>
+          <div class="datetime">
+            Saturday, September 15th 8am
+            &mdash;
+            Sunday, September 16th 7pm
+          </div>
+          <div class="location">
+            <a href="http://www.willowspringspark.com/">Willow Springs Park</a>
+            &mdash; 199 Millardsville Road, Richland, PA 17087
+          </div>
+          <p>
+            Willow Springs is a limestone quarry located in eastern PA with a max
+            depth of 45 feet and a multitude of attractions. Most attractions are
+            roped together making navigation easier.
+          </p>
+          <p>Entrance is $30 per day and $10 to camp.</p>
+          <p>Come for one day or the whole weekend!</p>
+        </li>
+        <li>
+          <h3>Dutch Springs Dive</h3>
+          <div class="datetime">Saturday, September 22nd &mdash; 7am - 9pm</div>
+          <div class="location">
+            <a href="http://dutchsprings.com/">Dutch Springs</a>
+            &mdash; 4733 Hanoverville Road, Bethlehem, PA 18020
+          </div>
+          <p>
+            Dutch Springs is the premier fresh water dive site in the
+            northeastern United States with 40+ feet of visibility and lots
+            of great attractions to dive on from depths ranging from 40 feet
+            to 100 feet.
+          </p>
+          <p>
+            If you are new to Pennsylvania diving, this is the place to start!
+          </p>
+          <p>Entrance fee is $45 per person per day</p>
+        </li>
+        <li>
+          <h3>Friday Night Dive</h3>
+          <div class="datetime">Friday, September 28th &mdash; 6pm - 11pm</div>
+          <div class="location">
+            Blue Hole Quarry
+          </div>
+          <p>
+            The days are getting shorter and the weather is cooling off which
+            makes it easy to get in an early night dive before hanging out
+            around the campfire. Best of all, we don't have to
+            get up and go to work in the morning. So come out and join us
+            for the last Friday night dive at Blue Hole for the year with
+            our friends from the
+            <a href="http://www.laureldivers.com">Laurel Divers</a>.
+          </p>
+          <p>
+            Don't forget to complete your
+            <a href="https://www.smartwaiver.com/w/59c9a6fe3e48f/web/"
+            >quarry waiver online</a> in advance of the trip (only needs
+            to be completed once a year).
+          </p>
+          <p>Entrance fee is $6</p>
+        </li>
+        <li>
+          <h3>Jay Street Fun Dive</h3>
+          <div class="datetime">Sunday, September 30th &mdash; 9am-5pm</div>
+          <div class="location">
+            Jay Street Bridge, Loch Haven, PA
+          </div>
+          <p>
+            The Jay Street Bridge in Loch Haven, PA stradles the west branch
+            of the Susquehanna River. This dive site typically has crystal
+            clear water, a very mild current, and depths around 20 feet.
+          </p>
+          <p>
+            A <a href="https://static1.squarespace.com/static/52f5008be4b0ec7646cd0b58/t/53571301e4b048c2dee0df2a/1398215425559/jstwaiver.pdf"
+            >one-time waiver</a> must be completed in order to dive this site.
+          </p>
+        </li>
+
+        <!--
         <li>
           <h3>New Jersey Shore Dive</h3>
           <div class="datetime">September 26th - 28th</div>
@@ -894,11 +1020,11 @@
     </section>
 
     <section id="october">
-      <h2>October 2015</h2>
+      <h2>October 2018</h2>
       <ul class="eventList">
         <li>
           <h3>Pumpkin Carving Dive</h3>
-          <div class="datetime">Saturday, October 3rd</div>
+          <div class="datetime">Saturday, October 6th &mdash; 12pm-10pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
@@ -907,7 +1033,20 @@
             be hosting their annual underwater pumpkin carving contest and
             chili cookoff at Blue Hole Quarry.
           </p>
+          <p>
+            Come out and carve a pumpkin underwater and then chow down on
+            a buffet of chili and other side dishes contributed by you and
+            the other underwater carvers!
+          </p>
+          <p>
+            Don't forget to complete your
+            <a href="https://www.smartwaiver.com/w/59c9a6fe3e48f/web/"
+            >quarry waiver online</a> in advance of the trip (only needs
+            to be completed once a year).
+          </p>
+          <p>Entrance fee is $6</p>
         </li>
+        <!--
         <li>
           <h3>Penn State Homecoming Tailgate</h3>
           <div class="datetime">Saturday, October 10th</div>
@@ -920,22 +1059,63 @@
             <strike>scuba</strike> football, and join in the fun!
           </p>
         </li>
+        -->
         <li>
           <h3>Homecoming Dive</h3>
-          <div class="datetime">Sunday, October 11th &mdash; 9am - 3pm</div>
+          <div class="datetime">Sunday, October 14th &mdash; 9am-5pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
           <p>
             While there are lots of activities going on for homecoming, scuba
-            always seem to excluded. Well, we are bound to change that. Win
+            always seem to be excluded. Well, we are bound to change that. Win
             or lose, we are going diving the day after homecoming, so if
             you're coming to town for the game, don't forget your gear and
             make sure you have that
-            <a href="https://www.smartwaiver.com/w/52c1a317552c5/web/">Blue
+            <a href="https://www.smartwaiver.com/w/59c9a6fe3e48f/web/">Blue
             Hole waiver</a> on file early.
           </p>
+          <p>Entrance fee is $6</p>
         </li>
+        <li>
+          <h3>Blue Hole Fun Dive</h3>
+          <div class="datetime">Sunday, October 21st &mdash; 9am-5pm</div>
+          <div class="location">
+            Blue Hole Quarry
+          </div>
+          <p>
+            A small, private quarry located about an hour south of State
+            College near Altoona, PA. The quarry boasts 6 major attractions,
+            about 30 feet of depth and around 15 feet of visibility.
+          </p>
+          <p>
+            Don't forget to complete your
+            <a href="https://www.smartwaiver.com/w/59c9a6fe3e48f/web/"
+            >quarry waiver online</a> in advance of the trip (only needs
+            to be completed once a year).
+          </p>
+          <p>Entrance fee is $6</p>
+        </li>
+        <li>
+          <h3>Blue Hole Fun Dive</h3>
+          <div class="datetime">Sunday, October 28th &mdash; 9am-5pm</div>
+          <div class="location">
+            Blue Hole Quarry
+          </div>
+          <p>
+            A small, private quarry located about an hour south of State
+            College near Altoona, PA. The quarry boasts 6 major attractions,
+            about 30 feet of depth and around 15 feet of visibility.
+          </p>
+          <p>
+            Don't forget to complete your
+            <a href="https://www.smartwaiver.com/w/59c9a6fe3e48f/web/"
+            >quarry waiver online</a> in advance of the trip (only needs
+            to be completed once a year).
+          </p>
+          <p>Entrance fee is $6</p>
+        </li>
+        <!--
         <li>
           <h3>3rd Annual Autumn Awesomeness</h3>
           <div class="datetime">Sunday, October 25th &mdash; 1pm - 6pm</div>
@@ -954,12 +1134,33 @@
             with their pumpkin slingshots!
           </p>
         </li>
+        -->
       </ul>
     </section>
 
     <section id="november">
-      <h2>November 2015</h2>
+      <h2>November 2018</h2>
       <ul class="eventList">
+        <li>
+          <h3>Blue Hole Fun Dive</h3>
+          <div class="datetime">Sunday, November 4th &mdash; 9am-5pm</div>
+          <div class="location">
+            Blue Hole Quarry
+          </div>
+          <p>
+            A small, private quarry located about an hour south of State
+            College near Altoona, PA. The quarry boasts 6 major attractions,
+            about 30 feet of depth and around 15 feet of visibility.
+          </p>
+          <p>
+            Don't forget to complete your
+            <a href="https://www.smartwaiver.com/w/59c9a6fe3e48f/web/"
+            >quarry waiver online</a> in advance of the trip (only needs
+            to be completed once a year).
+          </p>
+          <p>Entrance fee is $6</p>
+        </li>
+        <!--
         <li>
           <h3>Willow Springs Dive</h3>
           <div class="datetime">Saturday, November 7th &mdash; 7am - 9pm</div>
@@ -973,9 +1174,10 @@
             roped together making navigation easier.
           </p>
         </li>
+        -->
         <li>
           <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, November 8th &mdash; 7pm - 10pm</div>
+          <div class="datetime">Sunday, November 11th &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
             &mdash; 821 Cricklewood Drive, State College, PA 16803
@@ -994,6 +1196,7 @@
             will be a dive flag table tent to identify us.
           </p>
         </li>
+        <!--
         <li>
           <h3>Bainbridge Dive</h3>
           <div class="alert alert-danger">
@@ -1085,15 +1288,16 @@
             will be a dive flag table tent to identify us.
           </p>
         </li>
+        -->
       </ul>
     </section>
 
     <section id="december">
-      <h2>December 2015</h2>
+      <h2>December 2018</h2>
       <ul class="eventList">
         <li>
           <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, December 6th &mdash; 7pm - 10pm</div>
+          <div class="datetime">Sunday, December 2nd &mdash; 7pm - 10pm</div>
           <div class="location">
             <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
             &mdash; 821 Cricklewood Drive, State College, PA 16803
@@ -1142,7 +1346,7 @@
           <p>
             Spend the week between Christmas and New Years in sunny Florida while diving
             on some amazing reefs and shipwrecks. A traditional trip from the early days
-            of <a href="http://www.nittanydivers.org">Nittany Divers</a>, this trip has
+            of Nittany Divers, this trip has
             continued for the last 10+ years under the leadership of Jon Leslie.
           </p>
           <p>
