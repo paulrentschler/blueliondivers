@@ -863,7 +863,7 @@
         -->
         <li>
           <h3>Blue Hole Fun Dive</h3>
-          <div class="datetime">Saturday, September 3rd &mdash; 9am-5pm</div>
+          <div class="datetime">Monday, September 3rd &mdash; 9am-5pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
@@ -882,7 +882,7 @@
         </li>
         <li>
           <h3>Jay Street Fun Dive</h3>
-          <div class="datetime">Sunday, September 8th &mdash; 9am-5pm</div>
+          <div class="datetime">Sunday, September 9th &mdash; 9am-5pm</div>
           <div class="location">
             Jay Street Bridge, Loch Haven, PA
           </div>
@@ -1358,10 +1358,6 @@
             the partying begins as Key West comes alive for New Years Eve like no other
             place on earth! A combination of Mardi Gras and Times Square the Floridians
             of Key West ring in the new year with a style all their own!
-          </p>
-          <p>
-            <a href="http://www.personal.psu.edu/jpl1/keys.htm">Additional information
-            on the Florida Keys Trip</a>
           </p>
         </li>
       </ul>
