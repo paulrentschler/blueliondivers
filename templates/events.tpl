@@ -219,7 +219,7 @@
         </li>
         <li>
           <h3>Autumn Blum</h3>
-          <div class="datetime">Thursday, March 27th &mdash; 7pm - 9pm</div>
+          <div class="datetime">Thursday, March 28th &mdash; 7pm - 9pm</div>
           <div class="location">
             HUB Flex Theatre - Penn State University
           </div>
