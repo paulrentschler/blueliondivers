@@ -21,9 +21,9 @@
     </p>
 
     <section id="january">
-      <?php /*
-      <h2>January 2015</h2>
+      <h2>January 2019</h2>
       <ul class="eventList">
+      <?php /*
         <li>
           <h3>Sunday Night Social</h3>
           <div class="datetime">Sunday, January 18th &mdash; 7pm - 10pm</div>
@@ -74,14 +74,14 @@
             will be a dive flag table tent to identify us.
           </p>
         </li>
-      </ul>
       */ ?>
+      </ul>
     </section>
 
     <section id="february">
-      <?php /*
-      <h2>February 2015</h2>
+      <h2>February 2019</h2>
       <ul class="eventList">
+      <?php /*
         <li>
           <h3>Sunday Night Social</h3>
           <div class="alert alert-danger">
@@ -176,8 +176,8 @@
             will be a dive flag table tent to identify us.
           </p>
         </li>
-      </ul>
       */ ?>
+      </ul>
     </section>
 
     <section id="march">
@@ -354,9 +354,9 @@
     </section>
 
     <section id="may">
-      <?php /*
-      <h2>May 2015</h2>
+      <h2>May 2019</h2>
       <ul class="eventList">
+      <?php /*
         <!--
         <li>
           <h3>Annual Sunken Treasure Scuba Swap</h3>
@@ -401,14 +401,14 @@
             If you are new to Pennsylvania diving, this is the place to start!
           </p>
         </li>
-      </ul>
       */ ?>
+      </ul>
     </section>
 
     <section id="june">
-      <?php /*
-      <h2>June 2015</h2>
+      <h2>June 2019</h2>
       <ul class="eventList">
+      <?php /*
         <li>
           <h3>Bainbridge Dive</h3>
           <div class="alert alert-danger">
@@ -536,14 +536,14 @@
           </p>
         </li>
         -->
-      </ul>
       */ ?>
+      </ul>
     </section>
 
     <section id="july">
-      <?php /*
-      <h2>July 2015</h2>
+      <h2>July 2019</h2>
       <ul class="eventList">
+      <?php /*
         <li>
           <h3>Willow Springs Dive</h3>
           <div class="datetime">Saturday, July 18th &mdash; 7am - 9pm</div>
@@ -599,14 +599,14 @@
           </p>
         </li>
         -->
-        */ ?>
+      */ ?>
       </ul>
     </section>
 
     <section id="august">
-      <?php /*
-      <h2>August 2018</h2>
+      <h2>August 2019</h2>
       <ul class="eventList">
+      <?php /*
         <!--
         <li>
           <h3>1st Annual Gilboa Gathering</h3>
@@ -804,14 +804,14 @@
           </p>
         </li>
         -->
-      </ul>
       */ ?>
+      </ul>
     </section>
 
     <section id="september">
-      <?php /*
-      <h2>September 2018</h2>
+      <h2>September 2019</h2>
       <ul class="eventList">
+      <?php /*
         <!--
         <li>
           <h3>Labor Day Houseboat Trip</h3>
@@ -1025,14 +1025,14 @@
           </p>
         </li>
         -->
-      </ul>
       */ ?>
+      </ul>
     </section>
 
     <section id="october">
-      <?php /*
-      <h2>October 2018</h2>
+      <h2>October 2019</h2>
       <ul class="eventList">
+      <?php /*
         <li>
           <h3>Pumpkin Carving Dive</h3>
           <div class="datetime">Saturday, October 6th &mdash; 12pm-10pm</div>
@@ -1146,14 +1146,14 @@
           </p>
         </li>
         -->
-      </ul>
       */ ?>
+      </ul>
     </section>
 
     <section id="november">
-      <?php /*
-      <h2>November 2018</h2>
+      <h2>November 2019</h2>
       <ul class="eventList">
+      <?php /*
         <li>
           <h3>Blue Hole Fun Dive</h3>
           <div class="datetime">Sunday, November 4th &mdash; 9am-5pm</div>
@@ -1302,14 +1302,14 @@
           </p>
         </li>
         -->
-      </ul>
       */ ?>
+      </ul>
     </section>
 
     <section id="december">
-      <?php /*
-      <h2>December 2018</h2>
+      <h2>December 2019</h2>
       <ul class="eventList">
+      <?php /*
         <li>
           <h3>Sunday Night Social</h3>
           <div class="datetime">Sunday, December 2nd &mdash; 7pm - 10pm</div>
@@ -1375,8 +1375,8 @@
             of Key West ring in the new year with a style all their own!
           </p>
         </li>
-      </ul>
       */ ?>
+      </ul>
     </section>
   </div>
 </div>
