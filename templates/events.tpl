@@ -181,13 +181,30 @@
     </section>
 
     <section id="march">
-      <?php /*
-      <h2>March 2015</h2>
+      <h2>March 2019</h2>
       <ul class="eventList">
-        <!--
+        <li>
+          <h3>Inter-club Social</h3>
+          <div class="datetime">Saturday, March 2nd &mdash; 5pm - 8pm</div>
+          <div class="location">
+            <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
+            &mdash; 821 Cricklewood Drive, State College, PA 16803
+          </div>
+          <p>
+            Come join your fellow Blue Lion Divers and the Laurel Divers from
+            Altoona for an inter-club social event around the piano bar at
+            the American Ale House and Grill.
+          <p>
+            Come for some amazing locally sourced food or just come for the
+            socialization; either way we'd all love to see you and talk scuba!
+          </p>
+          <p>
+            RSVP is appreciated but not required.
+          </p>
+        </li>
         <li>
           <h3>Annual Sunken Treasure Wine &amp; Cheese Party</h3>
-          <div class="datetime">Friday, March 7th &mdash; 7pm - 10pm</div>
+          <div class="datetime">Friday, March 15th &mdash; 6:30pm - 10pm</div>
           <div class="location">
             <a href="http://divestsc.com/">Sunken Treasure Scuba Center</a>
             &mdash; 664 Geiler Hollow Road, Jersey Shore, PA 17740
@@ -200,76 +217,45 @@
             scuba gadgets in his shop.
           </p>
         </li>
-        -->
         <li>
-          <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, March 1st &mdash; 7pm - 10pm</div>
+          <h3>Autumn Blum</h3>
+          <div class="datetime">Thursday, March 27th &mdash; 7pm - 9pm</div>
           <div class="location">
-            <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
-            &mdash; 821 Cricklewood Drive, State College, PA 16803
+            HUB Flex Theatre - Penn State University
           </div>
+          <p>The Nittany Divers SCUBA Club at Penn State presents:</p>
           <p>
-            It's too cold for most of us to be diving, so come out and talk
-            diving. Local musicians, Ted and Molly, provide
-            great background music while we socialize and/or play pool.
+            <img src="img/autumn-blum.png"
+                 alt="Autumn Blum, Cosmetic Chemist and founder of Sea2Stream, presents on saving coral reefs">
           </p>
           <p>
-            We are starting at 7pm to give us an hour of quieter (no music)
-            conversation time before the music starts at 8pm.
-          </p>
-          <p>
-            We typically sit in the booths in front of the wine closet. There
-            will be a dive flag table tent to identify us.
-          </p>
-        </li>
-        <li>
-          <h3>Sunday Night Social</h3>
-          <div class="datetime">Sunday, March 15th &mdash; 7pm - 10pm</div>
-          <div class="location">
-            <a href="http://www.americanalehouse.net/">American Ale House and Grill</a>
-            &mdash; 821 Cricklewood Drive, State College, PA 16803
-          </div>
-          <p>
-            It's too cold for most of us to be diving, so come out and talk
-            diving. Local musicians, Ted and Molly, provide
-            great background music while we socialize and/or play pool.
-          </p>
-          <p>
-            We are starting at 7pm to give us an hour of quieter (no music)
-            conversation time before the music starts at 8pm.
-          </p>
-          <p>
-            We typically sit in the booths in front of the wine closet. There
-            will be a dive flag table tent to identify us.
+            Parking is available for $1/hour in the
+            <a href="https://transportation.psu.edu/hub-parking-deck"
+               >HUB Parking Deck</a> on the corner of Shortlege and Pollock
+            roads.
           </p>
         </li>
         <li>
           <h3><a href="http://www.beneaththesea.org/">Beneath the Sea</a></h3>
-          <div class="datetime">March 27th - 29th</div>
+          <div class="datetime">March 29th - 31st</div>
           <div class="location">
             Meadowlands Convention Center, Secaucus, NJ
           </div>
           <p>
-            This is the premier consumer scuba show in the United States. In it's 39th
-            year, this expo hosts 400 exhibitors which includes equipment manufacturers,
+            This is the premier consumer scuba show in the United States. This
+            expo hosts 400 exhibitors which includes equipment manufacturers,
             dive destinations, certifying agencies, and much, much more. In addition
             to the exhibits, Beneath the Sea plays host to a number of excellent
             talks and workshops related to all facets of scuba.
           </p>
-          <p>
-            There will probably be a carpool of people going on Saturday, March 28th
-            which will leave early in the morning and return late at night as to
-            not miss a moment of this excellent show.
-          </p>
         </li>
       </ul>
-      */ ?>
     </section>
 
     <section id="april">
-      <?php /*
-      <h2>April 2015</h2>
+      <h2>April 2019</h2>
       <ul class="eventList">
+        <?php /*
         <li>
           <h3>April Fools Dive at Blue Hole</h3>
           <div class="datetime">Saturday, April 1th &mdash; no time yet</div>
@@ -287,6 +273,8 @@
             cause you will be warm and dry at home.
           </p>
         </li>
+        */ ?>
+        <?php /*
         <li>
           <h3>Bonne Terre Mine Dive</h3>
           <div class="datetime">April 10th - 12th</div>
@@ -313,9 +301,28 @@
           </p>
           -->
         </li>
+        */ ?>
+        <li>
+          <h3>Jim Lapenta</h3>
+          <div class="datetime">Friday, April 12th &mdash; 7pm - 9pm</div>
+          <div class="location">
+            HUB 233A - Penn State University
+          </div>
+          <p>The Nittany Divers SCUBA Club at Penn State presents:</p>
+          <p>
+            <img src="img/jim-lapenta.png"
+                 alt="Jim Lapenta, author and distinguished SCUBA instructor, presents on being a safer diver through better buddy practices and dive planning">
+          </p>
+          <p>
+            Parking is available for $1/hour in the
+            <a href="https://transportation.psu.edu/hub-parking-deck"
+               >HUB Parking Deck</a> on the corner of Shortlege and Pollock
+            roads.
+          </p>
+        </li>
         <li>
           <h3>Penn State Blue-White Tailgate</h3>
-          <div class="datetime">Saturday, April 18th &mdash; 9am - 2pm</div>
+          <div class="datetime">Saturday, April 13th &mdash; 9am - 2pm</div>
           <div class="location">
             Beaver Stadium, University Park, PA 16802
           </div>
@@ -329,7 +336,7 @@
         </li>
         <li>
           <h3>Annual Blue-White Dive</h3>
-          <div class="datetime">Sunday, April 19th &mdash; 9am - 3pm</div>
+          <div class="datetime">Sunday, April 14th &mdash; 9am - 3pm</div>
           <div class="location">
             Blue Hole Quarry
           </div>
@@ -339,12 +346,11 @@
             it's 5th or 6th year, we are going to continue the tradition of going
             diving the day after the Blue-White football game. So if your coming
             to town for the game, don't forget your gear and make sure you have
-            that <a href="https://www.smartwaiver.com/w/52c1a317552c5/web/">Blue
+            that <a href="https://waiver.smartwaiver.com/w/5c0403ee2c2fa/web/">Blue
             Hole waiver</a> on file early.
           </p>
         </li>
       </ul>
-      */ ?>
     </section>
 
     <section id="may">
@@ -598,6 +604,7 @@
     </section>
 
     <section id="august">
+      <?php /*
       <h2>August 2018</h2>
       <ul class="eventList">
         <!--
@@ -798,9 +805,11 @@
         </li>
         -->
       </ul>
+      */ ?>
     </section>
 
     <section id="september">
+      <?php /*
       <h2>September 2018</h2>
       <ul class="eventList">
         <!--
@@ -1017,9 +1026,11 @@
         </li>
         -->
       </ul>
+      */ ?>
     </section>
 
     <section id="october">
+      <?php /*
       <h2>October 2018</h2>
       <ul class="eventList">
         <li>
@@ -1136,9 +1147,11 @@
         </li>
         -->
       </ul>
+      */ ?>
     </section>
 
     <section id="november">
+      <?php /*
       <h2>November 2018</h2>
       <ul class="eventList">
         <li>
@@ -1290,9 +1303,11 @@
         </li>
         -->
       </ul>
+      */ ?>
     </section>
 
     <section id="december">
+      <?php /*
       <h2>December 2018</h2>
       <ul class="eventList">
         <li>
@@ -1361,6 +1376,7 @@
           </p>
         </li>
       </ul>
+      */ ?>
     </section>
   </div>
 </div>
